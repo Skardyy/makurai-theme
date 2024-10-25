@@ -2,11 +2,11 @@
 ![Makurai_long](https://github.com/user-attachments/assets/05db57e0-f7ec-46db-a9ed-8e63b8a033db)
 
 > A dark theme for
-> * [Vscode]()
-> * [Vim]()
-> * [Alacritty]()
-> * [Kitty]()
-> * [Windows Terminal]()
+> * [Vscode](https://github.com/Skardyy/makurai-vscode)
+> * [Vim](https://github.com/Skardyy/makurai-nvim)
+> * [Alacritty](https://github.com/Skardyy/makurai-theme/blob/main/alacritty.toml)
+> * [Kitty](https://github.com/Skardyy/makurai-theme/blob/main/Kitty.conf)
+> * [Windows Terminal](https://github.com/Skardyy/makurai-theme/blob/main/WindowsTerminal.json)
 
 
 ## Color Palette
