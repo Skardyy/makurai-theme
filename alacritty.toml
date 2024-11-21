@@ -24,3 +24,7 @@ blue = '#82aaff'
 magenta = '#D2A6FF'
 cyan = '#8BE9FD'
 white = '#ffffff'
+
+[cursor]
+text: 'black'
+cursor: '#ffdb29'
