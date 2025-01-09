@@ -7,6 +7,7 @@
 > * [Alacritty](https://github.com/Skardyy/makurai-theme/blob/main/alacritty.toml)
 > * [Kitty](https://github.com/Skardyy/makurai-theme/blob/main/Kitty.conf)
 > * [Windows Terminal](https://github.com/Skardyy/makurai-theme/blob/main/WindowsTerminal.json)
+> * [Wezterm](https://github.com/Skardyy/makurai-theme/blob/main/.wezterm.lua)
 
 
 ## Color Palette
