@@ -6,9 +6,8 @@ config.colors = {
   background = '#15161b',
   cursor_bg = '#ffdb29',
   cursor_fg = '#15161b',
-  selection_fg = '#3d424d',
-  selection_bg = '#f8f8f0',
-  split = '#444444',
+  selection_bg = '#3d424d',
+  split = '#5C6773',
   ansi = {
     '#000000',
     '#ff5555',
@@ -17,17 +16,17 @@ config.colors = {
     '#82aaff',
     '#ff79c6',
     '#82aaff',
-    '#bbbbbb',
+    '#f8f8f0',
   },
   brights = {
-    '#555555',
+    '#000',
     '#ff5555',
     '#95FB79',
     '#FFEE99',
     '#82aaff',
     '#ff79c6',
     '#82aaff',
-    '#ffffff',
+    '#f8f8f0',
   },
   tab_bar = {
     background = '#15161b',
@@ -66,6 +65,7 @@ config.colors = {
     },
   },
 }
+
 
 -- optional (i think it looks better)
 config.use_fancy_tab_bar = false
