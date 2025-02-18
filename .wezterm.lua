@@ -2,7 +2,7 @@ local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
 
 config.colors = {
-  foreground = '#f8f8f0',
+  foreground = '#ffffff',
   background = '#15161b',
   cursor_bg = '#ffdb29',
   cursor_fg = '#15161b',
@@ -16,7 +16,7 @@ config.colors = {
     '#82aaff',
     '#ff79c6',
     '#82aaff',
-    '#f8f8f0',
+    '#ffffff',
   },
   brights = {
     '#656565',
@@ -26,13 +26,13 @@ config.colors = {
     '#82aaff',
     '#ff79c6',
     '#82aaff',
-    '#f8f8f0',
+    '#ffffff',
   },
   tab_bar = {
     background = '#15161b',
     active_tab = {
       bg_color = '#1e2029',
-      fg_color = '#f8f8f0',
+      fg_color = '#ffffff',
       intensity = 'Normal',
       underline = 'None',
       italic = false,
@@ -48,7 +48,7 @@ config.colors = {
     },
     inactive_tab_hover = {
       bg_color = '#25282e',
-      fg_color = '#f8f8f0',
+      fg_color = '#ffffff',
       intensity = 'Normal',
       underline = 'None',
       italic = false,
@@ -60,7 +60,7 @@ config.colors = {
     },
     new_tab_hover = {
       bg_color = '#25282e',
-      fg_color = '#f8f8f0',
+      fg_color = '#ffffff',
       italic = false,
     },
   },
