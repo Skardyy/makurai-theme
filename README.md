@@ -30,5 +30,5 @@
 | Comment      | `#5C6773` | `92 103 115`  | `211° 11% 41%`  | ![Comment](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Comment.png)                 |
 | Guide        | `#2D3640` | `45 54 64`    | `212° 17% 21%`  | ![Guide](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Guide.png)                     |
 | Line         | `#25282e` | `37 40 46`    | `220° 11% 16%`  | ![Line](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Line.png)                       |
-| Error        | `#ff5555` | `255 219 41`  | `50°  100% 58%` | ![error](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/error.png)                     |
-| Cursor       | `#ffdb29` | `255 219 41`  | `50°  100% 58%` | ![cursor](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/cursor.png)                   |
+| Error        | `#ff5555` | `255 85 85`  | `0° 100% 67%`    | ![error](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/error.png)                     |
+| Cursor       | `#ffdb29` | `255 219 41`  | `50° 100% 58%`  | ![cursor](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/cursor.png)                   |
