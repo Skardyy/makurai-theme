@@ -2,7 +2,9 @@
 <p align="center">A simple and bright theme for</p>
 <div align="center">
   
-  [![Static Badge](https://img.shields.io/badge/nvim-15161b?style=flat&logo=neovim)](https://github.com/Skardyy/makurai-nvim) ˙ [![Static Badge](https://img.shields.io/badge/vscode-15161b?style=flat&logo=vscodium&)](https://github.com/Skardyy/makurai-vscode) ˙ [![Static Badge](https://img.shields.io/badge/alacritty-15161b?style=flat&logo=alacritty)](https://github.com/Skardyy/makurai-theme/blob/main/alacritty.toml) ˙ [![Static Badge](https://img.shields.io/badge/wezterm-15161b?style=flat&logo=wezterm&logoColor=%237f7bed)](https://github.com/Skardyy/makurai-theme/blob/main/.wezterm.lua) ˙ [![Static Badge](https://img.shields.io/badge/windows%20terminal-15161b?style=flat&logo=educative&logoColor=%23aaaaaa)](https://github.com/Skardyy/makurai-theme/blob/main/WindowsTerminal.json) ˙ [![Static Badge](https://img.shields.io/badge/kitty-15161b?style=flat&logo=refinedgithub&logoColor=%23c46f36)](https://github.com/Skardyy/makurai-theme/blob/main/Kitty.conf)
+  [![Static Badge](https://img.shields.io/badge/neovim-15161b?style=flat&logo=neovim)](https://github.com/Skardyy/makurai-nvim) ˙ [![Static Badge](https://img.shields.io/badge/vscode-15161b?style=flat&logo=vscodium&)](https://github.com/Skardyy/makurai-vscode)
+  
+  [![Static Badge](https://img.shields.io/badge/alacritty-15161b?style=flat&logo=alacritty)](https://github.com/Skardyy/makurai-theme/blob/main/alacritty.toml) ˙ [![Static Badge](https://img.shields.io/badge/wezterm-15161b?style=flat&logo=wezterm&logoColor=%237f7bed)](https://github.com/Skardyy/makurai-theme/blob/main/wezterm.lua) ˙ [![Static Badge](https://img.shields.io/badge/windows%20terminal-15161b?style=flat&logo=educative&logoColor=%23aaaaaa)](https://github.com/Skardyy/makurai-theme/blob/main/windows-terminal.json) ˙ [![Static Badge](https://img.shields.io/badge/kitty-15161b?style=flat&logo=refinedgithub&logoColor=%23c46f36)](https://github.com/Skardyy/makurai-theme/blob/main/kitty.conf) ˙ [![Static Badge](https://img.shields.io/badge/warp%20terminal-15161b?style=flat&logo=warp&logoColor=01A4FF)](https://github.com/Skardyy/makurai-theme/blob/main/warp-terminal.yaml)
 </div>
 
 ![Makurai](https://github.com/user-attachments/assets/c0a7d3ef-390b-42e0-a335-4d5d45834a72)
@@ -28,4 +30,5 @@
 | Comment      | `#5C6773` | `92 103 115`  | `211° 11% 41%`  | ![Comment](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Comment.png)                 |
 | Guide        | `#2D3640` | `45 54 64`    | `212° 17% 21%`  | ![Guide](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Guide.png)                     |
 | Line         | `#25282e` | `37 40 46`    | `220° 11% 16%`  | ![Line](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Line.png)                       |
-| Accent       | `#ffdb29` | `255 219 41`  | `50°  100% 58%` | ![blue](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/accent.png)                     |
+| Error        | `#ff5555` | `255 219 41`  | `50°  100% 58%` | ![error](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/error.png)                     |
+| Cursor       | `#ffdb29` | `255 219 41`  | `50°  100% 58%` | ![cursor](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/cursor.png)                   |
