@@ -11,7 +11,7 @@ green = '#95FB79'
 yellow = '#FFEE99'
 blue = '#82aaff'
 magenta = '#D2A6FF'
-cyan = '#8BE9FD'
+cyan = '#7dcfff'
 white = '#ffffff'
 
 # Bright colors
@@ -22,7 +22,7 @@ green = '#95FB79'
 yellow = '#FFEE99'
 blue = '#82aaff'
 magenta = '#D2A6FF'
-cyan = '#8BE9FD'
+cyan = '#7dcfff'
 white = '#ffffff'
 
 [cursor]

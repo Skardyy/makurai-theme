@@ -6,8 +6,8 @@ config.colors = {
   background = '#15161b',
   cursor_bg = '#ffdb29',
   cursor_fg = '#15161b',
-  selection_bg = '#3d424d',
-  split = '#5C6773',
+  selection_bg = '#264F78',
+  split = '#a6accd',
   ansi = {
     '#000000',
     '#ff5555',
@@ -47,7 +47,7 @@ config.colors = {
       strikethrough = false,
     },
     inactive_tab_hover = {
-      bg_color = '#25282e',
+      bg_color = '#1b1c21',
       fg_color = '#ffffff',
       intensity = 'Normal',
       underline = 'None',

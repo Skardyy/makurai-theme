@@ -11,24 +11,30 @@
 
 ---
 
+### **Syntax**  
+| Name        | Hex       | Preview |  
+|-------------|-----------|---------|  
+| Orange      | `#FF7733` | ![orange](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/orange.png) |  
+| Yellow      | `#FFEE99` | ![yellow](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/yellow.png) |  
+| Green       | `#95FB79` | ![green](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/green.png) |  
+| Blue        | `#82AAFF` | ![blue](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/blue.png) |  
+| Purple      | `#D2A6FF` | ![purple](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/purple.png) |  
+| Foreground  | `#FFFFFF` | ![foreground](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Foreground.png) |  
+| Comment     | `#5C6773` | ![comment](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Comment.png) |  
 
+### **Editor**  
+| Name        | Hex       | Preview |  
+|-------------|-----------|---------|  
+| Background  | `#15161B` | ![background](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Background.png) |  
+| Surface     | `#08090D` | ![surface](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Surface.png) |  
+| Surface 2   | `#1B1C21` | ![surface2](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Surface2.png) |  
+| Border      | `#A6ACCD` | ![border](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/border.png) |  
 
-### Color Palette
-
-| Palette      | Hex       | RGB           | HSL             |                                                                                                                     |
-| ------------ | --------- | ------------- | --------------- | ----------------------------------------------------------------------------------------------                      |
-| Orange       | `#FF7733` | `255 119 51`  | `20° 100% 60%`  | ![orange](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/orange.png)                   |
-| Yellow       | `#FFEE99` | `255 238 153` | `50° 100% 80%`  | ![yellow](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/yellow.png)                   |
-| Green        | `#95FB79` | `149 251 121` | `107° 94% 73%`  | ![green](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/green.png)                     |
-| Blue         | `#82aaff` | `130 170 255` | `221° 100% 75%` | ![blue](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/blue.png)                       |
-| Purple       | `#D2A6FF` | `210 166 255` | `270° 100% 83%` | ![purple](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/purple.png)                   |
-| Foreground   | `#ffffff` | `248 248 240` | `60° 36% 96%`   | ![Foreground](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Foreground.png)           |
-| Background   | `#15161b` | `21 22 27`    | `230° 13% 9%`   | ![Background](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Background.png)           |
-| Surface      | `#08090d` | `8 9 13`      | `228 24% 4%%`   | ![Surface](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Surface.png)                 |
-| Surface 2    | `#1e2029` | `30 32 41`    | `229° 15% 14%`  | ![Surface2](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Surface2.png)               |
-| Selection    | `#3d424d` | `61 66 77`    | `221° 12% 27%`  | ![Selection](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Selection.png)             |
-| Comment      | `#5C6773` | `92 103 115`  | `211° 11% 41%`  | ![Comment](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Comment.png)                 |
-| Guide        | `#2D3640` | `45 54 64`    | `212° 17% 21%`  | ![Guide](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Guide.png)                     |
-| Line         | `#25282e` | `37 40 46`    | `220° 11% 16%`  | ![Line](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Line.png)                       |
-| Error        | `#ff5555` | `255 85 85`  | `0° 100% 67%`    | ![error](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/error.png)                     |
-| Cursor       | `#ffdb29` | `255 219 41`  | `50° 100% 58%`  | ![cursor](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/cursor.png)                   |
+### **Other**  
+| Name        | Hex       | Preview |  
+|-------------|-----------|---------|  
+| Guide       | `#2D3640` | ![guide](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Guide.png) |  
+| Line_NR     | `#25282E` | ![line](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Line.png) |  
+| Cursor_Line | `#1E1F24` | ![cursor](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/cursor_line.png) |  
+| Selection   | `#264F78` | ![selection](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Selection.png) |  
+| Error       | `#FF5555` | ![error](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/error.png) |  
