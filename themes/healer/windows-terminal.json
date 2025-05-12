@@ -1,0 +1,23 @@
+{
+  "name": "Makurai Healer",
+  "background": "#14161f",
+  "foreground": "#FFFFFF",
+  "black": "#000000",
+  "red": "#FF5555",
+  "green": "#95FB79",
+  "yellow": "#FFEE99",
+  "blue": "#82AAFF",
+  "purple": "#8be9fd",
+  "cyan": "#82AAFF",
+  "white": "#FFFFFF",
+  "brightBlack": "#5C6773",
+  "brightRed": "#FF5555",
+  "brightGreen": "#95FB79",
+  "brightYellow": "#FFEE99",
+  "brightBlue": "#82AAFF",
+  "brightPurple": "#8be9fd",
+  "brightCyan": "#82AAFF",
+  "brightWhite": "#FFFFFF",
+  "cursorColor": "#ffffff",
+  "selectionBackground": "#7c7dcc"
+}

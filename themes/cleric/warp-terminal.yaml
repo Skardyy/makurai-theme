@@ -1,0 +1,25 @@
+name: Cleric
+accent: #0066FF
+cursor: #000000
+background: #F0F0F0
+foreground: #000000
+details: darker
+terminal_colors:
+  bright:
+    black: '#000000'
+    red: #FF0000
+    green: #008F11
+    yellow: #FF7D00
+    blue: #0066FF
+    magenta: #00A8F0
+    cyan: #0066FF
+    white: #000000
+  normal:
+    black: '#000000'
+    red: #FF0000
+    green: #008F11
+    yellow: #FF7D00
+    blue: #0066FF
+    magenta: #00A8F0
+    cyan: #0066FF
+    white: #000000

@@ -1,0 +1,28 @@
+{
+    "name": "Cleric",
+    "colors": {
+        "syntax": {
+            "keyword": "#D6008F",
+            "function": "#FF7D00",
+            "string": "#008F11",
+            "type": "#0066FF",
+            "constant": "#00A8F0",
+            "foreground": "#000000",
+            "comment": "#a0a1a7"
+        },
+        "editor": {
+            "background": "#F0F0F0",
+            "surface": "#C4C9D1",
+            "surface2": "#FFFFFF",
+            "border": "#D0D7DE"
+        },
+        "other": {
+            "guide": "#E5E7EB",
+            "line_nr": "#D1D5DB",
+            "cursor_line": "#EDF0F3",
+            "selection": "#D1C4FF",
+            "error": "#FF0000",
+            "cursor": "#000000"
+        }
+    }
+}

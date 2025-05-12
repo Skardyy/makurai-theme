@@ -1,0 +1,28 @@
+{
+    "name": "Healer",
+    "colors": {
+        "syntax": {
+            "keyword": "#ff79c6",
+            "function": "#FFEE99",
+            "string": "#95FB79",
+            "type": "#82AAFF",
+            "constant": "#8be9fd",
+            "foreground": "#FFFFFF",
+            "comment": "#5C6773"
+        },
+        "editor": {
+            "background": "#14161f",
+            "surface": "#414158",
+            "surface2": "#1B1C21",
+            "border": "#A6ACCD"
+        },
+        "other": {
+            "guide": "#2D3640",
+            "line_nr": "#25282E",
+            "cursor_line": "#1E1F24",
+            "selection": "#7c7dcc",
+            "error": "#FF5555",
+            "cursor": "#ffffff"
+        }
+    }
+}

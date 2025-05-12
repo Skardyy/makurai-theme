@@ -1,0 +1,25 @@
+name: Healer
+accent: #82AAFF
+cursor: #ffffff
+background: #14161f
+foreground: #FFFFFF
+details: darker
+terminal_colors:
+  bright:
+    black: '#000000'
+    red: #FF5555
+    green: #95FB79
+    yellow: #FFEE99
+    blue: #82AAFF
+    magenta: #8be9fd
+    cyan: #82AAFF
+    white: #FFFFFF
+  normal:
+    black: '#000000'
+    red: #FF5555
+    green: #95FB79
+    yellow: #FFEE99
+    blue: #82AAFF
+    magenta: #8be9fd
+    cyan: #82AAFF
+    white: #FFFFFF
