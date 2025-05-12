@@ -1,40 +1,29 @@
-<h1 align="center">{{ palette.name }} Theme</h1>  
-<p align="center">A simple and bright theme for</p>
-<div align="center">
-  
-  [![Static Badge](https://img.shields.io/badge/neovim-15161b?style=flat&logo=neovim)](https://github.com/Skardyy/makurai-nvim) ˙ [![Static Badge](https://img.shields.io/badge/vscode-15161b?style=flat&logo=vscodium&)](https://github.com/Skardyy/makurai-vscode)
-  
-  [![Static Badge](https://img.shields.io/badge/alacritty-15161b?style=flat&logo=alacritty)](https://github.com/Skardyy/makurai-theme/blob/main/alacritty.toml) ˙ [![Static Badge](https://img.shields.io/badge/wezterm-15161b?style=flat&logo=wezterm&logoColor=%237f7bed)](https://github.com/Skardyy/makurai-theme/blob/main/wezterm.lua) ˙ [![Static Badge](https://img.shields.io/badge/windows%20terminal-15161b?style=flat&logo=educative&logoColor=%23aaaaaa)](https://github.com/Skardyy/makurai-theme/blob/main/windows-terminal.json) ˙ [![Static Badge](https://img.shields.io/badge/kitty-15161b?style=flat&logo=refinedgithub&logoColor=%23c46f36)](https://github.com/Skardyy/makurai-theme/blob/main/kitty.conf) ˙ [![Static Badge](https://img.shields.io/badge/warp%20terminal-15161b?style=flat&logo=warp&logoColor=01A4FF)](https://github.com/Skardyy/makurai-theme/blob/main/warp-terminal.yaml)
-</div>
+# Makurai {{ name }} Theme
 
-![{{ palette.name }}](https://github.com/user-attachments/assets/c0a7d3ef-390b-42e0-a335-4d5d45834a72)
+## Syntax Colors
+| Name      | Color          |
+|-----------|----------------|
+| Keyword   | `{{ colors.syntax.keyword }}` |
+| Function  | `{{ colors.syntax.function }}` |
+| String    | `{{ colors.syntax.string }}` |
+| Type      | `{{ colors.syntax.type }}` |
+| Constant  | `{{ colors.syntax.constant }}` |
+| Comment   | `{{ colors.syntax.comment }}` |
+| Foreground| `{{ colors.syntax.foreground }}` |
 
----
+## UI Colors
+| Name        | Color           |
+|-------------|-----------------|
+| Background  | `{{ colors.editor.background }}` |
+| Surface     | `{{ colors.editor.surface }}` |
+| Surface 2   | `{{ colors.editor.surface2 }}` |
+| Border      | `{{ colors.editor.border }}` |
 
-### **Syntax**  
-| Name        | Hex       | Preview |  
-|-------------|-----------|---------|  
-| Keyword     | `{{ palette.colors.syntax.keyword }}` | ![keyword](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/orange.png) |  
-| Function    | `{{ palette.colors.syntax.function }}` | ![function](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/yellow.png) |  
-| String      | `{{ palette.colors.syntax.string }}` | ![string](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/green.png) |  
-| Type        | `{{ palette.colors.syntax.type }}` | ![type](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/blue.png) |  
-| Constant    | `{{ palette.colors.syntax.constant }}` | ![constant](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/purple.png) |  
-| Foreground  | `{{ palette.colors.syntax.foreground }}` | ![foreground](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Foreground.png) |  
-| Comment     | `{{ palette.colors.syntax.comment }}` | ![comment](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Comment.png) |  
-
-### **Editor**  
-| Name        | Hex       | Preview |  
-|-------------|-----------|---------|  
-| Background  | `{{ palette.colors.editor.background }}` | ![background](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Background.png) |  
-| Surface     | `{{ palette.colors.editor.surface }}` | ![surface](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Surface.png) |  
-| Surface 2   | `{{ palette.colors.editor.surface2 }}` | ![surface2](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Surface2.png) |  
-| Border      | `{{ palette.colors.editor.border }}` | ![border](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/border.png) |  
-
-### **Other**  
-| Name        | Hex       | Preview |  
-|-------------|-----------|---------|  
-| Guide       | `{{ palette.colors.other.guide }}` | ![guide](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Guide.png) |  
-| Line_NR     | `{{ palette.colors.other.line_nr }}` | ![line](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Line.png) |  
-| Cursor_Line | `{{ palette.colors.other.cursor_line }}` | ![cursor](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/cursor_line.png) |  
-| Selection   | `{{ palette.colors.other.selection }}` | ![selection](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/Selection.png) |  
-| Error       | `{{ palette.colors.other.error }}` | ![error](https://raw.githubusercontent.com/Skardyy/makurai-theme/refs/heads/main/Dog/error.png) |  
+## Other
+| Name         | Color           |
+|--------------|-----------------|
+| Line Number  | `{{ colors.other.line_nr }}` |
+| Cursor Line  | `{{ colors.other.cursor_line }}` |
+| Selection    | `{{ colors.other.selection }}` |
+| Error        | `{{ colors.other.error }}` |
+| Cursor       | `{{ colors.other.cursor }}` |

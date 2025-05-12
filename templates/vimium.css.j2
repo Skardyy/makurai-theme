@@ -1,0 +1,70 @@
+:root {
+  --vimium-orange: {{ colors.syntax.keyword }};
+  --vimium-yellow: {{ colors.syntax.function }};
+  --vimium-green: {{ colors.syntax.string }};
+  --vimium-text: {{ colors.syntax.foreground }};
+  --vimium-surface2: {{ colors.editor.surface2 }};
+  --vimium-background: {{ colors.editor.background }};
+  --vimium-comment: {{ colors.syntax.comment }};
+  --vimium-line: {{ colors.other.line_nr }};
+}
+
+#vomnibar,
+#vomnibar input,
+#vomnibar .vomnibarSearchArea,
+#vomnibar ul {
+  background-color: var(--vimium-background);
+  border: none;
+}
+
+#vomnibar {
+  border: 1px solid var(--vimium-line);
+  padding: 1px;
+  border-radius: 8px;
+}
+
+#vomnibar li.vomnibarSelected {
+  background-color: var(--vimium-line);
+}
+
+#vomnibar li .vomnibarSource {
+  color: var(--vimium-orange);
+}
+
+#vomnibar li .vomnibarUrl {
+  color: var(--vimium-text);
+}
+
+#vomnibar li .vomnibarTitle {
+  color: var(--vimium-green);
+  font-weight: bold;
+}
+
+#vomnibar li .vomnibarMatch,
+#vomnibar li .vomnibarTitle .vomnibarMatch {
+  color: var(--vimium-green);
+}
+
+#vomnibar ul {
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid var(--vimium-line);
+}
+
+div#vimiumHelpDialog {
+  background-color: var(--vimium-background);
+  border: 1px solid var(--vimium-line);
+}
+
+span.vimiumHelpDialogKey {
+  background-color: var(--vimium-surface2);
+}
+
+div#vimiumHelpDialogContainer {
+  border: 1px solid var(--vimium-line);
+}
+
+div#vimiumHelpDialog a,
+#vimiumTitle > span:first-child {
+  color: var(--vimium-green) !important;
+}

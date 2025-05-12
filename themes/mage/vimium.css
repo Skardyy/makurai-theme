@@ -1,22 +1,19 @@
-/* Makurai Theme for Vimium (browser extension) */
-
 :root {
   --vimium-orange: #FF7733;
   --vimium-yellow: #FFEE99;
   --vimium-green: #95FB79;
-  --vimium-text: #ffffff;
-  --vimium-surface2: #1e2029;
-  --vimium-background: #15161b;
+  --vimium-text: #FFFFFF;
+  --vimium-surface2: #1B1C21;
+  --vimium-background: #15161B;
   --vimium-comment: #5C6773;
-  --vimium-line: #25282e;
+  --vimium-line: #25282E;
 }
 
+#vomnibar,
 #vomnibar input,
 #vomnibar .vomnibarSearchArea,
-#vomnibar,
 #vomnibar ul {
   background-color: var(--vimium-background);
-  box-shadow: none;
   border: none;
 }
 
@@ -68,6 +65,6 @@ div#vimiumHelpDialogContainer {
 }
 
 div#vimiumHelpDialog a,
-#vimiumTitle>span:first-child {
+#vimiumTitle > span:first-child {
   color: var(--vimium-green) !important;
 }

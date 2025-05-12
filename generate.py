@@ -15,11 +15,9 @@ def generate_files(palette):
     """Generate all theme files from the palette"""
     env = Environment(loader=FileSystemLoader('templates'))
 
-    # Create output directory if it doesn't exist
     output_dir = os.path.join('themes', palette['name'].lower())
     os.makedirs(output_dir, exist_ok=True)
 
-    # List of all template files to process
     templates = [
         'README.md.j2',
         'alacritty.toml.j2',
