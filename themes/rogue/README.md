@@ -1,0 +1,29 @@
+# Makurai Rogue Theme
+
+## Syntax Colors
+| Name      | Color          |
+|-----------|----------------|
+| Keyword   | `#f7e254` |
+| Function  | `#9d9eb0` |
+| String    | `#92c468` |
+| Type      | `#8e8e90` |
+| Constant  | `#FF7733` |
+| Comment   | `#5C6773` |
+| Foreground| `#e8e8ea` |
+
+## UI Colors
+| Name        | Color           |
+|-------------|-----------------|
+| Background  | `#15161B` |
+| Surface     | `#08090D` |
+| Surface 2   | `#1B1C21` |
+| Border      | `#A6ACCD` |
+
+## Other
+| Name         | Color           |
+|--------------|-----------------|
+| Line Number  | `#25282E` |
+| Cursor Line  | `#1E1F24` |
+| Selection    | `#264F78` |
+| Error        | `#FF5555` |
+| Cursor       | `#ffdb29` |
