@@ -1,14 +1,14 @@
 /* Makurai Healer Theme */
 
 :root {
-  --vimium-orange: #D94C0E;
-  --vimium-yellow: #8D6E15;
-  --vimium-green: #2B7F3A;
-  --vimium-text: #0A0A0A;
-  --vimium-surface2: #ECECEC;
-  --vimium-background: #F5F5F5;
-  --vimium-comment: #5C6773;
-  --vimium-line: #9CA3AF;
+  --vimium-orange: #E35043;
+  --vimium-yellow: #3D76F3;
+  --vimium-green: #51A150;
+  --vimium-text: #323640;
+  --vimium-surface2: #f0f0f9;
+  --vimium-background: #f8f8fc;
+  --vimium-comment: #A0A1A7;
+  --vimium-line: #3D76F3;
 }
 
 #vomnibar,

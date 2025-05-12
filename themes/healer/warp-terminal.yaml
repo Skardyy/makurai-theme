@@ -1,26 +1,26 @@
 # Makurai Healer Theme 
 name: makurai-Healer
-accent: #1A4B8D
+accent: #AB31A9
 cursor: #D4A017
-background: #F5F5F5
-foreground: #0A0A0A
+background: #f8f8fc
+foreground: #323640
 details: darker
 terminal_colors:
   bright:
     black: '#000000'
     red: #CC0000
-    green: #2B7F3A
-    yellow: #8D6E15
-    blue: #1A4B8D
-    magenta: #6A3889
-    cyan: #1A4B8D
-    white: #0A0A0A
+    green: #51A150
+    yellow: #3D76F3
+    blue: #AB31A9
+    magenta: #976700
+    cyan: #AB31A9
+    white: #323640
   normal:
     black: '#000000'
     red: #CC0000
-    green: #2B7F3A
-    yellow: #8D6E15
-    blue: #1A4B8D
-    magenta: #6A3889
-    cyan: #1A4B8D
-    white: #0A0A0A
+    green: #51A150
+    yellow: #3D76F3
+    blue: #AB31A9
+    magenta: #976700
+    cyan: #AB31A9
+    white: #323640
