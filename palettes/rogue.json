@@ -11,9 +11,10 @@
             "comment": "#5C6773"
         },
         "editor": {
-            "background": "#15161B",
+            "bg": "#15161B",
             "surface": "#08090D",
-            "surface2": "#1B1C21",
+            "bg_alt": "#14161f",
+            "surface_alt": "#20202b",
             "border": "#A6ACCD"
         },
         "other": {

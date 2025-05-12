@@ -1,3 +1,4 @@
+-- Makurai Mage Theme 
 local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
 
@@ -31,7 +32,7 @@ config.colors = {
   tab_bar = {
     background = "#15161B",
     active_tab = {
-      bg_color = "#1B1C21",
+      bg_color = "#20202b",
       fg_color = "#FFFFFF",
     },
     inactive_tab = {
@@ -39,7 +40,7 @@ config.colors = {
       fg_color = "#5C6773",
     },
     inactive_tab_hover = {
-      bg_color = "#1B1C21",
+      bg_color = "#14161f",
       fg_color = "#FFFFFF",
     },
     new_tab = {

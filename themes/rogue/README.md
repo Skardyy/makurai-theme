@@ -12,12 +12,13 @@
 | Foreground| `#e8e8ea` |
 
 ## UI Colors
-| Name        | Color           |
-|-------------|-----------------|
-| Background  | `#15161B` |
-| Surface     | `#08090D` |
-| Surface 2   | `#1B1C21` |
-| Border      | `#A6ACCD` |
+| Name          | Color           |
+|---------------|-----------------|
+| Background    | `#15161B` |
+| Surface       | `#08090D` |
+| Background 2  | `#14161f` |
+| Surface 2     | `#20202b` |
+| Border        | `#A6ACCD` |
 
 ## Other
 | Name         | Color           |

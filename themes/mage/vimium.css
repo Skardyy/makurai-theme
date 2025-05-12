@@ -1,9 +1,11 @@
+/* Makurai Mage Theme */
+
 :root {
   --vimium-orange: #FF7733;
   --vimium-yellow: #FFEE99;
   --vimium-green: #95FB79;
   --vimium-text: #FFFFFF;
-  --vimium-surface2: #1B1C21;
+  --vimium-surface2: #20202b;
   --vimium-background: #15161B;
   --vimium-comment: #5C6773;
   --vimium-line: #25282E;

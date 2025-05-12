@@ -2,27 +2,28 @@
     "name": "Healer",
     "colors": {
         "syntax": {
-            "keyword": "#ff79c6",
-            "function": "#FFEE99",
-            "string": "#95FB79",
-            "type": "#82AAFF",
-            "constant": "#8be9fd",
-            "foreground": "#FFFFFF",
+            "keyword": "#D94C0E",
+            "function": "#8D6E15",
+            "string": "#2B7F3A",
+            "type": "#1A4B8D",
+            "constant": "#6A3889",
+            "foreground": "#0A0A0A",
             "comment": "#5C6773"
         },
         "editor": {
-            "background": "#14161f",
-            "surface": "#414158",
-            "surface2": "#1B1C21",
-            "border": "#A6ACCD"
+            "bg": "#F5F5F5",
+            "surface": "#FFFFFF",
+            "bg_alt": "#E8E8E8",
+            "surface_alt": "#ECECEC",
+            "border": "#6E7681"
         },
         "other": {
-            "guide": "#2D3640",
-            "line_nr": "#25282E",
-            "cursor_line": "#1E1F24",
-            "selection": "#7c7dcc",
-            "error": "#FF5555",
-            "cursor": "#ffffff"
+            "guide": "#D1D5DB",
+            "line_nr": "#9CA3AF",
+            "cursor_line": "#F0F0F0",
+            "selection": "#C6DBFF",
+            "error": "#CC0000",
+            "cursor": "#D4A017"
         }
     }
 }

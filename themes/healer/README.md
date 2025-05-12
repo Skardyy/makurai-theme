@@ -3,27 +3,28 @@
 ## Syntax Colors
 | Name      | Color          |
 |-----------|----------------|
-| Keyword   | `#ff79c6` |
-| Function  | `#FFEE99` |
-| String    | `#95FB79` |
-| Type      | `#82AAFF` |
-| Constant  | `#8be9fd` |
+| Keyword   | `#D94C0E` |
+| Function  | `#8D6E15` |
+| String    | `#2B7F3A` |
+| Type      | `#1A4B8D` |
+| Constant  | `#6A3889` |
 | Comment   | `#5C6773` |
-| Foreground| `#FFFFFF` |
+| Foreground| `#0A0A0A` |
 
 ## UI Colors
-| Name        | Color           |
-|-------------|-----------------|
-| Background  | `#14161f` |
-| Surface     | `#414158` |
-| Surface 2   | `#1B1C21` |
-| Border      | `#A6ACCD` |
+| Name          | Color           |
+|---------------|-----------------|
+| Background    | `#F5F5F5` |
+| Surface       | `#FFFFFF` |
+| Background 2  | `#E8E8E8` |
+| Surface 2     | `#ECECEC` |
+| Border        | `#6E7681` |
 
 ## Other
 | Name         | Color           |
 |--------------|-----------------|
-| Line Number  | `#25282E` |
-| Cursor Line  | `#1E1F24` |
-| Selection    | `#7c7dcc` |
-| Error        | `#FF5555` |
-| Cursor       | `#ffffff` |
+| Line Number  | `#9CA3AF` |
+| Cursor Line  | `#F0F0F0` |
+| Selection    | `#C6DBFF` |
+| Error        | `#CC0000` |
+| Cursor       | `#D4A017` |
