@@ -1,0 +1,26 @@
+# Makurai Rogue Theme 
+name: makurai-Rogue
+accent: #8e8e90
+cursor: #ffdb29
+background: #15161B
+foreground: #e8e8ea
+details: darker
+terminal_colors:
+  bright:
+    black: '#000000'
+    red: #FF5555
+    green: #92c468
+    yellow: #9d9eb0
+    blue: #8e8e90
+    magenta: #FF7733
+    cyan: #8e8e90
+    white: #e8e8ea
+  normal:
+    black: '#000000'
+    red: #FF5555
+    green: #92c468
+    yellow: #9d9eb0
+    blue: #8e8e90
+    magenta: #FF7733
+    cyan: #8e8e90
+    white: #e8e8ea

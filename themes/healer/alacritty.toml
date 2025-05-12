@@ -1,0 +1,31 @@
+# Makurai Healer Theme
+# Default colors
+[colors.primary]
+background = '#f8f8fc'
+foreground = '#323640'
+
+# Normal colors
+[colors.normal]
+black = '#000000'
+red = '#CC0000'
+green = '#51A150'
+yellow = '#3D76F3'
+blue = '#AB31A9'
+magenta = '#976700'
+cyan = '#AB31A9'
+white = '#323640'
+
+# Bright colors
+[colors.bright]
+black = '#000000'
+red = '#CC0000'
+green = '#51A150'
+yellow = '#3D76F3'
+blue = '#AB31A9'
+magenta = '#976700'
+cyan = '#AB31A9'
+white = '#323640'
+
+[cursor]
+text = '#000000'
+cursor = '#D4A017'
