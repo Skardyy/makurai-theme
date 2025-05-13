@@ -18,5 +18,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><b>Rogue</b><br><a href="./themes/rogue"><img width="126" src="https://i.imgur.com/zjlI6PZ.png"/></a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><b>Healer</b><br><a href="./themes/healer"><img width="126" src="https://i.imgur.com/hLNEN1b.png"/></a></kbd>
+  <kbd><b>Healer</b><br><a href="./themes/healer"><img width="126" src="https://i.imgur.com/D9AkzkE.png"/></a></kbd>
 </p>
