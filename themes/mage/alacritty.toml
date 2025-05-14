@@ -11,19 +11,19 @@ red = '#FF5555'
 green = '#95FB79'
 yellow = '#FFEE99'
 blue = '#82AAFF'
-magenta = '#D2A6FF'
-cyan = '#82AAFF'
+magenta = '#ff79c6'
+cyan = '#D2A6FF'
 white = '#FFFFFF'
 
 # Bright colors
 [colors.bright]
-black = '#000000'
+black = '#5C6773'
 red = '#FF5555'
 green = '#95FB79'
 yellow = '#FFEE99'
 blue = '#82AAFF'
-magenta = '#D2A6FF'
-cyan = '#82AAFF'
+magenta = '#ff79c6'
+cyan = '#D2A6FF'
 white = '#FFFFFF'
 
 [cursor]
