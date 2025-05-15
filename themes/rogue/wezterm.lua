@@ -16,7 +16,7 @@ config.colors = {
     "#9d9eb0",
     "#8e8e90",
     "#FF7733",
-    "#FF7733",
+    "#8e8e90",
     "#e8e8ea",
   },
   brights = {
@@ -26,7 +26,7 @@ config.colors = {
     "#9d9eb0",
     "#8e8e90",
     "#FF7733",
-    "#FF7733",
+    "#8e8e90",
     "#e8e8ea",
   },
   tab_bar = {

@@ -12,8 +12,8 @@ terminal_colors:
     green: #95FB79
     yellow: #FFEE99
     blue: #82AAFF
-    magenta: #ff79c6
-    cyan: #D2A6FF
+    magenta: #D2A6FF
+    cyan: #82AAFF
     white: #FFFFFF
   normal:
     black: #5C6773
@@ -22,5 +22,5 @@ terminal_colors:
     yellow: #FFEE99
     blue: #82AAFF
     magenta: #ff79c6
-    cyan: #D2A6FF
+    cyan: #82AAFF
     white: #FFFFFF

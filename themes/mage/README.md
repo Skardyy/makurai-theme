@@ -26,5 +26,6 @@
 | Line Number  | `#25282E` |
 | Cursor Line  | `#1E1F24` |
 | Selection    | `#264F78` |
+| On_Selection | `#ffffff` |
 | Error        | `#FF5555` |
 | Cursor       | `#ffdb29` |

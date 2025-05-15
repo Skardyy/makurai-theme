@@ -13,7 +13,7 @@ terminal_colors:
     yellow: #9d9eb0
     blue: #8e8e90
     magenta: #FF7733
-    cyan: #FF7733
+    cyan: #8e8e90
     white: #e8e8ea
   normal:
     black: #5C6773
@@ -22,5 +22,5 @@ terminal_colors:
     yellow: #9d9eb0
     blue: #8e8e90
     magenta: #FF7733
-    cyan: #FF7733
+    cyan: #8e8e90
     white: #e8e8ea

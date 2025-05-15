@@ -12,8 +12,8 @@ terminal_colors:
     green: #51A150
     yellow: #3D76F3
     blue: #AB31A9
-    magenta: #e3438e
-    cyan: #976700
+    magenta: #976700
+    cyan: #AB31A9
     white: #323640
   normal:
     black: #A0A1A7
@@ -22,5 +22,5 @@ terminal_colors:
     yellow: #3D76F3
     blue: #AB31A9
     magenta: #e3438e
-    cyan: #976700
+    cyan: #AB31A9
     white: #323640
