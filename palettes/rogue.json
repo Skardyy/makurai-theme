@@ -7,6 +7,7 @@
             "string": "#92c468",
             "type": "#8e8e90",
             "constant": "#FF7733",
+            "special": "#FF7733",
             "foreground": "#e8e8ea",
             "comment": "#5C6773"
         },
@@ -22,6 +23,7 @@
             "line_nr": "#25282E",
             "cursor_line": "#1E1F24",
             "selection": "#264F78",
+            "on_selection": "#ffffff",
             "error": "#FF5555",
             "cursor": "#ffdb29"
         }
