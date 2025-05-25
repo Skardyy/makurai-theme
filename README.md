@@ -14,10 +14,14 @@
 
 <p align="center">Each variant has its own folder. neovim is done seperatly</p>
 <p align="center">
-  <kbd><b>Mage</b><br><a href="./themes/mage"><img width="126" src="https://i.imgur.com/0tfu2tX.png"/></a></kbd>
+  <kbd><b>Mage</b><br><a href="./themes/mage"><img width="126" src="https://i.imgur.com/bBgJYNL.png"/></a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><b>Rogue</b><br><a href="./themes/rogue"><img width="126" src="https://i.imgur.com/biAJSMG.png"/></a></kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><b>Healer</b><br><a href="./themes/healer"><img width="126" src="https://i.imgur.com/8MFbXPO.png"/></a></kbd>
+  <kbd><b>Rogue</b><br><a href="./themes/rogue"><img width="126" src="https://i.imgur.com/zjlI6PZ.png"/></a></kbd>
 </p>
+<p align="center">
+  <kbd><b>Healer</b><br><a href="./themes/healer"><img width="126" src="https://i.imgur.com/hLNEN1b.png"/></a></kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd><b>Druid</b><br><a href="./themes/druid"><img width="126" src="https://i.imgur.com/sXx15ew.png"/></a></kbd>
+</p>
+
 
