@@ -14,7 +14,7 @@
 
 <p align="center">Each variant has its own folder. neovim is done seperatly</p>
 <p align="center">
-  <kbd><b>Mage</b><br><a href="./themes/mage"><img width="126" src="https://i.imgur.com/bBgJYNL.png"/></a></kbd>
+  <kbd><b>Mage</b><br><a href="./themes/mage"><img width="126" src="https://i.imgur.com/0tfu2tX.png"/></a></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd><b>Rogue</b><br><a href="./themes/rogue"><img width="126" src="https://i.imgur.com/zjlI6PZ.png"/></a></kbd>
 </p>
