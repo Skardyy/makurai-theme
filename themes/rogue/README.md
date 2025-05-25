@@ -1,31 +1,33 @@
 # Makurai Rogue Theme
 
+![Theme Preview](../../dogs/rogue/thumbnail.png)
+
 ## Syntax Colors
-| Name      | Preview | Color          |
-|-----------|---------|----------------|
-| Keyword   | ![keyword](../../dogs/rogue/keyword.png) | `#f7e254` |
-| Function  | ![function](../../dogs/rogue/function.png) | `#9d9eb0` |
-| String    | ![string](../../dogs/rogue/string.png) | `#92c468` |
-| Type      | ![type](../../dogs/rogue/type.png) | `#8e8e90` |
-| Constant  | ![constant](../../dogs/rogue/constant.png) | `#FF7733` |
-| Comment   | ![comment](../../dogs/rogue/comment.png) | `#5C6773` |
-| Foreground| ![foreground](../../dogs/rogue/foreground.png) | `#e8e8ea` |
+| Name      | Color          | Preview |
+|-----------|----------------|---------|
+| Keyword   | `#f7e254` | ![keyword](../../dogs/rogue/keyword.png) |
+| Function  | `#9d9eb0` | ![function](../../dogs/rogue/function.png) |
+| String    | `#92c468` | ![string](../../dogs/rogue/string.png) |
+| Type      | `#8e8e90` | ![type](../../dogs/rogue/type.png) |
+| Constant  | `#FF7733` | ![constant](../../dogs/rogue/constant.png) |
+| Comment   | `#5C6773` | ![comment](../../dogs/rogue/comment.png) |
+| Foreground| `#e8e8ea` | ![foreground](../../dogs/rogue/foreground.png) |
 
 ## UI Colors
-| Name          | Preview | Color           |
-|---------------|---------|-----------------|
-| Background    | ![bg](../../dogs/rogue/bg.png) | `#15161B` |
-| Surface       | ![surface](../../dogs/rogue/surface.png) | `#08090D` |
-| Background 2  | ![bg_alt](../../dogs/rogue/bg_alt.png) | `#14161f` |
-| Surface 2     | ![surface_alt](../../dogs/rogue/surface_alt.png) | `#20202b` |
-| Border        | ![border](../../dogs/rogue/border.png) | `#A6ACCD` |
+| Name          | Color           | Preview |
+|---------------|-----------------|---------|
+| Background    | `#15161B` | ![bg](../../dogs/rogue/bg.png) |
+| Surface       | `#08090D` | ![surface](../../dogs/rogue/surface.png) |
+| Background 2  | `#14161f` | ![bg_alt](../../dogs/rogue/bg_alt.png) |
+| Surface 2     | `#20202b` | ![surface_alt](../../dogs/rogue/surface_alt.png) |
+| Border        | `#A6ACCD` | ![border](../../dogs/rogue/border.png) |
 
 ## Other
-| Name         | Preview | Color           |
-|--------------|---------|-----------------|
-| Line Number  | ![line_nr](../../dogs/rogue/line_nr.png) | `#25282E` |
-| Cursor Line  | ![cursor_line](../../dogs/rogue/cursor_line.png) | `#1E1F24` |
-| Selection    | ![selection](../../dogs/rogue/selection.png) | `#264F78` |
-| On_Selection | ![on_selection](../../dogs/rogue/on_selection.png) | `#ffffff` |
-| Error        | ![error](../../dogs/rogue/error.png) | `#FF5555` |
-| Cursor       | ![cursor](../../dogs/rogue/cursor.png) | `#ffdb29` |
+| Name         | Color           | Preview |
+|--------------|-----------------|---------|
+| Line Number  | `#25282E` | ![line_nr](../../dogs/rogue/line_nr.png) |
+| Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/rogue/cursor_line.png) |
+| Selection    | `#264F78` | ![selection](../../dogs/rogue/selection.png) |
+| On_Selection | `#ffffff` | ![on_selection](../../dogs/rogue/on_selection.png) |
+| Error        | `#FF5555` | ![error](../../dogs/rogue/error.png) |
+| Cursor       | `#ffdb29` | ![cursor](../../dogs/rogue/cursor.png) |

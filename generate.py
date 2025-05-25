@@ -2,6 +2,7 @@
 import json
 import os
 from PIL import Image
+import subprocess
 from jinja2 import Environment, FileSystemLoader
 
 
@@ -11,8 +12,9 @@ def hex_to_rgb(hex_color):
     return tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
 
 
-def generate_color_images(palette):
-    """Generate 24x24 PNG images for each color in the palette"""
+def generate_assets(palette):
+
+    # Dir for assets
     theme_name = palette['name'].lower()
     dogs_dir = os.path.join('dogs', theme_name)
     os.makedirs(dogs_dir, exist_ok=True)
@@ -20,19 +22,19 @@ def generate_color_images(palette):
     # Create images for syntax colors
     for color_name, hex_color in palette['colors']['syntax'].items():
         rgb_color = hex_to_rgb(hex_color)
-        img = Image.new('RGB', (24, 24), rgb_color)
+        img = Image.new('RGB', (20, 20), rgb_color)
         img.save(os.path.join(dogs_dir, f'{color_name}.png'))
 
     # Create images for editor colors
     for color_name, hex_color in palette['colors']['editor'].items():
         rgb_color = hex_to_rgb(hex_color)
-        img = Image.new('RGB', (24, 24), rgb_color)
+        img = Image.new('RGB', (20, 20), rgb_color)
         img.save(os.path.join(dogs_dir, f'{color_name}.png'))
 
     # Create images for other colors
     for color_name, hex_color in palette['colors']['other'].items():
         rgb_color = hex_to_rgb(hex_color)
-        img = Image.new('RGB', (24, 24), rgb_color)
+        img = Image.new('RGB', (20, 20), rgb_color)
         img.save(os.path.join(dogs_dir, f'{color_name}.png'))
 
 
@@ -45,8 +47,8 @@ def load_palette(palette_name):
 
 def generate_files(palette):
     """Generate all theme files from the palette"""
-    # First generate color preview images
-    generate_color_images(palette)
+    # First generate color preview images and thumbnail
+    generate_assets(palette)
 
     env = Environment(loader=FileSystemLoader('templates'))
     output_dir = os.path.join('themes', palette['name'].lower())
@@ -69,6 +71,17 @@ def generate_files(palette):
 
         with open(output_path, 'w') as f:
             f.write(template.render(palette))
+
+    # Generate html for code_preview
+    template_name = "code_preview.html.j2"
+    output_dir = os.path.join('dogs', palette['name'].lower())
+    template = env.get_template(template_name)
+    output_filename = template_name.replace('.j2', '')
+    output_path = os.path.join(output_dir, output_filename)
+    with open(output_path, 'w') as f:
+        f.write(template.render(palette))
+    image_path = os.path.join(os.path.dirname(output_path), "thumbnail.png")
+    subprocess.run(f"mcat {output_path} -o image > {image_path}", shell=True, check=True)
 
     print(f"Successfully generated {palette['name']} theme in {output_dir}")
     print(f"Color preview images saved in dogs/{palette['name'].lower()}")

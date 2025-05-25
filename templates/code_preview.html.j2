@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ name }} Theme Preview</title>
+  <style>
+    :root {
+      --bg: {{ colors.editor.bg }};
+      --surface: {{ colors.editor.surface }};
+      --fg: {{ colors.syntax.foreground }};
+      --comment: {{ colors.syntax.comment }};
+      --keyword: {{ colors.syntax.keyword }};
+      --function: {{ colors.syntax.function }};
+      --string: {{ colors.syntax.string }};
+      --type: {{ colors.syntax.type }};
+      --constant: {{ colors.syntax.constant }};
+      --special: {{ colors.syntax.special }};
+      --cursor: {{ colors.other.cursor }};
+      --selection: {{ colors.other.selection }};
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: transparent;
+      color: var(--fg);
+      font-family: 'CaskaydiaCoveNerdFont', monospace;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .terminal {
+      background-color: var(--bg);
+      padding: 2rem;
+      border-radius: 10px;
+      width: 700px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+      position: relative;
+    }
+
+    .terminal::before {
+      content: '';
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+      width: 10px;
+      height: 10px;
+      background-color: #ff5f56;
+      border-radius: 50%;
+      box-shadow:
+        20px 0 0 #ffbd2e,
+        40px 0 0 #27c93f;
+    }
+
+    pre {
+      margin: 0;
+      font-size: 14px;
+      line-height: 1.6;
+      white-space: pre;
+    }
+
+    code {
+      display: block;
+      background-color: transparent;
+    }
+
+    /* Syntax highlighting */
+    .comment    { color: var(--comment); font-style: italic; }
+    .keyword    { color: var(--keyword); }
+    .function   { color: var(--function); }
+    .string     { color: var(--string); }
+    .type       { color: var(--type); }
+    .constant   { color: var(--constant); }
+    .special    { color: var(--special); }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <pre><code>
+<span class="comment"># definitely not a comment</span>
+<span class="keyword">class</span> <span class="type">Jeff</span>:
+    <span class="keyword">def</span> <span class="function">declare_supremacy</span>(<span class="type">self</span>, <span class="fg">number</span>):
+        <span class="function">print</span>(<span class="string">"I am the real Jeff"</span>)
+
+    <span class="keyword">def</span> <span class="function">react</span>(<span class="type">self</span>):
+        <span class="function">print</span>(<span class="string">"no u"</span>)
+
+<span class="fg">jeff1</span> = <span class="type">Jeff</span>()
+<span class="fg">jeff2</span> = <span class="type">Jeff</span>()
+
+jeff1.<span class="function">declare_supremacy</span>(<span class="constant">7</span>)
+jeff2.<span class="function">react</span>()
+</code></pre>
+  </div>
+</body>
+</html>

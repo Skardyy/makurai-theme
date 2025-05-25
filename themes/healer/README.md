@@ -1,31 +1,33 @@
 # Makurai Healer Theme
 
+![Theme Preview](../../dogs/healer/thumbnail.png)
+
 ## Syntax Colors
-| Name      | Preview | Color          |
-|-----------|---------|----------------|
-| Keyword   | ![keyword](../../dogs/healer/keyword.png) | `#E35043` |
-| Function  | ![function](../../dogs/healer/function.png) | `#3D76F3` |
-| String    | ![string](../../dogs/healer/string.png) | `#51A150` |
-| Type      | ![type](../../dogs/healer/type.png) | `#AB31A9` |
-| Constant  | ![constant](../../dogs/healer/constant.png) | `#976700` |
-| Comment   | ![comment](../../dogs/healer/comment.png) | `#A0A1A7` |
-| Foreground| ![foreground](../../dogs/healer/foreground.png) | `#323640` |
+| Name      | Color          | Preview |
+|-----------|----------------|---------|
+| Keyword   | `#E35043` | ![keyword](../../dogs/healer/keyword.png) |
+| Function  | `#3D76F3` | ![function](../../dogs/healer/function.png) |
+| String    | `#51A150` | ![string](../../dogs/healer/string.png) |
+| Type      | `#AB31A9` | ![type](../../dogs/healer/type.png) |
+| Constant  | `#976700` | ![constant](../../dogs/healer/constant.png) |
+| Comment   | `#A0A1A7` | ![comment](../../dogs/healer/comment.png) |
+| Foreground| `#323640` | ![foreground](../../dogs/healer/foreground.png) |
 
 ## UI Colors
-| Name          | Preview | Color           |
-|---------------|---------|-----------------|
-| Background    | ![bg](../../dogs/healer/bg.png) | `#f8f8fc` |
-| Surface       | ![surface](../../dogs/healer/surface.png) | `#ececf2` |
-| Background 2  | ![bg_alt](../../dogs/healer/bg_alt.png) | `#ebebf4` |
-| Surface 2     | ![surface_alt](../../dogs/healer/surface_alt.png) | `#f0f0f9` |
-| Border        | ![border](../../dogs/healer/border.png) | `#7e8a9e` |
+| Name          | Color           | Preview |
+|---------------|-----------------|---------|
+| Background    | `#f8f8fc` | ![bg](../../dogs/healer/bg.png) |
+| Surface       | `#ececf2` | ![surface](../../dogs/healer/surface.png) |
+| Background 2  | `#ebebf4` | ![bg_alt](../../dogs/healer/bg_alt.png) |
+| Surface 2     | `#f0f0f9` | ![surface_alt](../../dogs/healer/surface_alt.png) |
+| Border        | `#7e8a9e` | ![border](../../dogs/healer/border.png) |
 
 ## Other
-| Name         | Preview | Color           |
-|--------------|---------|-----------------|
-| Line Number  | ![line_nr](../../dogs/healer/line_nr.png) | `#3D76F3` |
-| Cursor Line  | ![cursor_line](../../dogs/healer/cursor_line.png) | `#f0f0fa` |
-| Selection    | ![selection](../../dogs/healer/selection.png) | `#C6DBFF` |
-| On_Selection | ![on_selection](../../dogs/healer/on_selection.png) | `#323640` |
-| Error        | ![error](../../dogs/healer/error.png) | `#CC0000` |
-| Cursor       | ![cursor](../../dogs/healer/cursor.png) | `#D4A017` |
+| Name         | Color           | Preview |
+|--------------|-----------------|---------|
+| Line Number  | `#3D76F3` | ![line_nr](../../dogs/healer/line_nr.png) |
+| Cursor Line  | `#f0f0fa` | ![cursor_line](../../dogs/healer/cursor_line.png) |
+| Selection    | `#C6DBFF` | ![selection](../../dogs/healer/selection.png) |
+| On_Selection | `#323640` | ![on_selection](../../dogs/healer/on_selection.png) |
+| Error        | `#CC0000` | ![error](../../dogs/healer/error.png) |
+| Cursor       | `#D4A017` | ![cursor](../../dogs/healer/cursor.png) |
