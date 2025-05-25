@@ -1,10 +1,13 @@
 # Makurai Healer Theme
 
+<div align=center>
+
 ![Theme Preview](../../dogs/healer/thumbnail.png)
+</div>
 
 ## Syntax Colors
-| Name      | Color          | Preview |
-|-----------|----------------|---------|
+| Name      | Color          | |
+|-----------|----------------|-|
 | Keyword   | `#E35043` | ![keyword](../../dogs/healer/keyword.png) |
 | Function  | `#3D76F3` | ![function](../../dogs/healer/function.png) |
 | String    | `#51A150` | ![string](../../dogs/healer/string.png) |
@@ -14,8 +17,8 @@
 | Foreground| `#323640` | ![foreground](../../dogs/healer/foreground.png) |
 
 ## UI Colors
-| Name          | Color           | Preview |
-|---------------|-----------------|---------|
+| Name          | Color           | |
+|---------------|-----------------|-|
 | Background    | `#f8f8fc` | ![bg](../../dogs/healer/bg.png) |
 | Surface       | `#ececf2` | ![surface](../../dogs/healer/surface.png) |
 | Background 2  | `#ebebf4` | ![bg_alt](../../dogs/healer/bg_alt.png) |
@@ -23,8 +26,8 @@
 | Border        | `#7e8a9e` | ![border](../../dogs/healer/border.png) |
 
 ## Other
-| Name         | Color           | Preview |
-|--------------|-----------------|---------|
+| Name         | Color           | |
+|--------------|-----------------|-|
 | Line Number  | `#3D76F3` | ![line_nr](../../dogs/healer/line_nr.png) |
 | Cursor Line  | `#f0f0fa` | ![cursor_line](../../dogs/healer/cursor_line.png) |
 | Selection    | `#C6DBFF` | ![selection](../../dogs/healer/selection.png) |

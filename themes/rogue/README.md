@@ -1,10 +1,13 @@
 # Makurai Rogue Theme
 
+<div align=center>
+
 ![Theme Preview](../../dogs/rogue/thumbnail.png)
+</div>
 
 ## Syntax Colors
-| Name      | Color          | Preview |
-|-----------|----------------|---------|
+| Name      | Color          | |
+|-----------|----------------|-|
 | Keyword   | `#f7e254` | ![keyword](../../dogs/rogue/keyword.png) |
 | Function  | `#9d9eb0` | ![function](../../dogs/rogue/function.png) |
 | String    | `#92c468` | ![string](../../dogs/rogue/string.png) |
@@ -14,8 +17,8 @@
 | Foreground| `#e8e8ea` | ![foreground](../../dogs/rogue/foreground.png) |
 
 ## UI Colors
-| Name          | Color           | Preview |
-|---------------|-----------------|---------|
+| Name          | Color           | |
+|---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/rogue/bg.png) |
 | Surface       | `#08090D` | ![surface](../../dogs/rogue/surface.png) |
 | Background 2  | `#14161f` | ![bg_alt](../../dogs/rogue/bg_alt.png) |
@@ -23,8 +26,8 @@
 | Border        | `#A6ACCD` | ![border](../../dogs/rogue/border.png) |
 
 ## Other
-| Name         | Color           | Preview |
-|--------------|-----------------|---------|
+| Name         | Color           | |
+|--------------|-----------------|-|
 | Line Number  | `#25282E` | ![line_nr](../../dogs/rogue/line_nr.png) |
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/rogue/cursor_line.png) |
 | Selection    | `#264F78` | ![selection](../../dogs/rogue/selection.png) |

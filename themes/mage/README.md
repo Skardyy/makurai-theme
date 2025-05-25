@@ -1,10 +1,13 @@
 # Makurai Mage Theme
 
+<div align=center>
+
 ![Theme Preview](../../dogs/mage/thumbnail.png)
+</div>
 
 ## Syntax Colors
-| Name      | Color          | Preview |
-|-----------|----------------|---------|
+| Name      | Color          | |
+|-----------|----------------|-|
 | Keyword   | `#FF7733` | ![keyword](../../dogs/mage/keyword.png) |
 | Function  | `#FFEE99` | ![function](../../dogs/mage/function.png) |
 | String    | `#95FB79` | ![string](../../dogs/mage/string.png) |
@@ -14,8 +17,8 @@
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/mage/foreground.png) |
 
 ## UI Colors
-| Name          | Color           | Preview |
-|---------------|-----------------|---------|
+| Name          | Color           | |
+|---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/mage/bg.png) |
 | Surface       | `#08090D` | ![surface](../../dogs/mage/surface.png) |
 | Background 2  | `#14161f` | ![bg_alt](../../dogs/mage/bg_alt.png) |
@@ -23,8 +26,8 @@
 | Border        | `#A6ACCD` | ![border](../../dogs/mage/border.png) |
 
 ## Other
-| Name         | Color           | Preview |
-|--------------|-----------------|---------|
+| Name         | Color           | |
+|--------------|-----------------|-|
 | Line Number  | `#25282E` | ![line_nr](../../dogs/mage/line_nr.png) |
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/mage/cursor_line.png) |
 | Selection    | `#264F78` | ![selection](../../dogs/mage/selection.png) |
