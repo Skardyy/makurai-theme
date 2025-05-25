@@ -1,0 +1,31 @@
+# Makurai Druid Theme
+# Default colors
+[colors.primary]
+background = '#18191B'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black = '#000000'
+red = '#FF5555'
+green = '#92c468'
+yellow = '#EAE87A'
+blue = '#7C9EDB'
+magenta = '#D2A6FF'
+cyan = '#7C9EDB'
+white = '#FFFFFF'
+
+# Bright colors
+[colors.bright]
+black = '#6C6C6C'
+red = '#FF5555'
+green = '#92c468'
+yellow = '#EAE87A'
+blue = '#7C9EDB'
+magenta = '#ff79c6'
+cyan = '#7C9EDB'
+white = '#FFFFFF'
+
+[cursor]
+text = '#000000'
+cursor = '#ffdb29'
