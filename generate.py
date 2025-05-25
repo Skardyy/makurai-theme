@@ -1,7 +1,39 @@
 #!/usr/bin/env python3
 import json
 import os
+from PIL import Image
 from jinja2 import Environment, FileSystemLoader
+
+
+def hex_to_rgb(hex_color):
+    """Convert hex color to RGB tuple"""
+    hex_color = hex_color.lstrip('#')
+    return tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
+
+
+def generate_color_images(palette):
+    """Generate 24x24 PNG images for each color in the palette"""
+    theme_name = palette['name'].lower()
+    dogs_dir = os.path.join('dogs', theme_name)
+    os.makedirs(dogs_dir, exist_ok=True)
+
+    # Create images for syntax colors
+    for color_name, hex_color in palette['colors']['syntax'].items():
+        rgb_color = hex_to_rgb(hex_color)
+        img = Image.new('RGB', (24, 24), rgb_color)
+        img.save(os.path.join(dogs_dir, f'{color_name}.png'))
+
+    # Create images for editor colors
+    for color_name, hex_color in palette['colors']['editor'].items():
+        rgb_color = hex_to_rgb(hex_color)
+        img = Image.new('RGB', (24, 24), rgb_color)
+        img.save(os.path.join(dogs_dir, f'{color_name}.png'))
+
+    # Create images for other colors
+    for color_name, hex_color in palette['colors']['other'].items():
+        rgb_color = hex_to_rgb(hex_color)
+        img = Image.new('RGB', (24, 24), rgb_color)
+        img.save(os.path.join(dogs_dir, f'{color_name}.png'))
 
 
 def load_palette(palette_name):
@@ -13,8 +45,10 @@ def load_palette(palette_name):
 
 def generate_files(palette):
     """Generate all theme files from the palette"""
-    env = Environment(loader=FileSystemLoader('templates'))
+    # First generate color preview images
+    generate_color_images(palette)
 
+    env = Environment(loader=FileSystemLoader('templates'))
     output_dir = os.path.join('themes', palette['name'].lower())
     os.makedirs(output_dir, exist_ok=True)
 
@@ -37,6 +71,7 @@ def generate_files(palette):
             f.write(template.render(palette))
 
     print(f"Successfully generated {palette['name']} theme in {output_dir}")
+    print(f"Color preview images saved in dogs/{palette['name'].lower()}")
 
 
 if __name__ == '__main__':
@@ -46,7 +81,14 @@ if __name__ == '__main__':
         description='Generate theme files from palettes')
     parser.add_argument(
         'palette', help='Name of the palette to use (without .json extension)')
+
     args = parser.parse_args()
 
-    palette = load_palette(args.palette)
-    generate_files(palette)
+    try:
+        palette = load_palette(args.palette)
+        generate_files(palette)
+    except ImportError:
+        print("Error: PIL (Pillow) is required to generate color images.")
+        print("Install it with: pip install Pillow")
+    except Exception as e:
+        print(f"Error: {e}")

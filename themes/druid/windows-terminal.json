@@ -1,0 +1,23 @@
+{
+  "name": "Makurai Druid",
+  "background": "#18191B",
+  "foreground": "#FFFFFF",
+  "black": "#000000",
+  "red": "#FF5555",
+  "green": "#92c468",
+  "yellow": "#EAE87A",
+  "blue": "#7C9EDB",
+  "purple": "#D2A6FF",
+  "cyan": "#7C9EDB",
+  "white": "#FFFFFF",
+  "brightBlack": "#6C6C6C",
+  "brightRed": "#FF5555",
+  "brightGreen": "#92c468",
+  "brightYellow": "#EAE87A",
+  "brightBlue": "#7C9EDB",
+  "brightPurple": "#ff79c6",
+  "brightCyan": "#7C9EDB",
+  "brightWhite": "#FFFFFF",
+  "cursorColor": "#ffdb29",
+  "selectionBackground": "#2D4A6F"
+}

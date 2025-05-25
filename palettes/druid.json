@@ -1,0 +1,31 @@
+{
+    "name": "Druid",
+    "colors": {
+        "syntax": {
+            "keyword": "#FF875F",
+            "function": "#EAE87A",
+            "string": "#92c468",
+            "type": "#7C9EDB",
+            "constant": "#D2A6FF",
+            "special": "#ff79c6",
+            "foreground": "#FFFFFF",
+            "comment": "#6C6C6C"
+        },
+        "editor": {
+            "bg": "#18191B",
+            "surface": "#080808",
+            "bg_alt": "#1C1C1C",
+            "surface_alt": "#262626",
+            "border": "#AFAFD7"
+        },
+        "other": {
+            "guide": "#3A3A3A",
+            "line_nr": "#262626",
+            "cursor_line": "#262623",
+            "selection": "#2D4A6F",
+            "on_selection": "#ffffff",
+            "error": "#FF5555",
+            "cursor": "#ffdb29"
+        }
+    }
+}
