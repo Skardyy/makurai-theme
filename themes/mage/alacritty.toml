@@ -26,6 +26,6 @@ magenta = '#ff79c6'
 cyan = '#82AAFF'
 white = '#FFFFFF'
 
-[cursor]
+[colors.cursor]
 text = '#000000'
 cursor = '#ffdb29'
