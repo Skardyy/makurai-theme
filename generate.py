@@ -117,7 +117,8 @@ def generate_files(palette):
         'vimium.css.j2',
         'warp-terminal.yaml.j2',
         'wezterm.lua.j2',
-        'windows-terminal.json.j2'
+        'windows-terminal.json.j2',
+        'fzf.txt.j2'
     ]
 
     for template_name in templates:

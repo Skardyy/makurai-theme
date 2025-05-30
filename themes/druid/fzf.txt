@@ -1,0 +1,13 @@
+export FZF_DEFAULT_OPTS="
+--color=fg:#e5e5e5,hl:#92c468
+--color=fg+:#ffffff,bg+:#262623,hl+:#92c468
+--color=info:#EAE87A,prompt:#FF875F,pointer:#ffdb29
+--color=marker:#D2A6FF,spinner:#EAE87A,header:#2b2b2b
+--color=border:#262623,label:#7C9EDB,query:#FFFFFF
+--color=disabled:#2b2b2b,preview-fg:#FFFFFF
+--border=rounded
+--height=40%
+--layout=reverse
+--info=inline
+--margin=1
+--padding=1"

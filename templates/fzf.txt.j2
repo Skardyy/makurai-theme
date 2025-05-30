@@ -1,0 +1,13 @@
+export FZF_DEFAULT_OPTS="
+--color=fg:{{ colors.syntax.foreground.dim }},hl:{{ colors.syntax.string.normal }}
+--color=fg+:{{ colors.other.on_selection }},bg+:{{ colors.other.cursor_line }},hl+:{{ colors.syntax.string.normal }}
+--color=info:{{ colors.syntax.function.normal }},prompt:{{ colors.syntax.keyword.normal }},pointer:{{ colors.other.cursor }}
+--color=marker:{{ colors.syntax.constant.normal }},spinner:{{ colors.syntax.function.normal }},header:{{ colors.syntax.comment.normal }}
+--color=border:{{ colors.other.cursor_line }},label:{{ colors.syntax.type.normal }},query:{{ colors.syntax.foreground.normal }}
+--color=disabled:{{ colors.syntax.comment.normal }},preview-fg:{{ colors.syntax.foreground.normal }}
+--border=rounded
+--height=40%
+--layout=reverse
+--info=inline
+--margin=1
+--padding=1"
