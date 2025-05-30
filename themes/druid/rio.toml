@@ -1,0 +1,44 @@
+# Makurai Druid Theme for Rio Terminal
+
+[colors]
+# Background and foreground
+background = '#18191B'
+foreground = '#FFFFFF'
+
+# Cursor colors
+cursor = '#ffdb29'
+cursor-foreground = '#000000'
+
+# Selection colors
+selection-background = '#2D4A6F'
+selection-foreground = '#ffffff'
+
+# Normal colors (0-7)
+black = '#2b2b2b'
+red = '#FF5555'
+green = '#92c468'
+yellow = '#EAE87A'
+blue = '#7C9EDB'
+magenta = '#D2A6FF'
+cyan = '#7C9EDB'
+white = '#FFFFFF'
+
+# Bright colors (8-15)
+bright-black = '#363636'
+bright-red = '#ff5d5d'
+bright-green = '#a0d772'
+bright-yellow = '#ffff86'
+bright-blue = '#88adf0'
+bright-magenta = '#ff85d9'
+bright-cyan = '#88adf0'
+bright-white = '#ffffff'
+
+# Dim colors
+dim-black = '#202020'
+dim-red = '#e54c4c'
+dim-green = '#83b05d'
+dim-yellow = '#d2d06d'
+dim-blue = '#6f8ec5'
+dim-magenta = '#e56cb2'
+dim-cyan = '#6f8ec5'
+dim-white = '#e5e5e5'

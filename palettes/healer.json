@@ -9,6 +9,7 @@
             "constant": "#976700",
             "special": "#e3438e",
             "foreground": "#323640",
+            "error": "#CC0000",
             "comment": "#A0A1A7"
         },
         "editor": {
@@ -24,7 +25,6 @@
             "cursor_line": "#f0f0fa",
             "selection": "#C6DBFF",
             "on_selection": "#323640",
-            "error": "#CC0000",
             "cursor": "#D4A017"
         }
     }

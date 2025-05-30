@@ -15,6 +15,7 @@
 | Constant  | `#D2A6FF` | ![constant](../../dogs/mage/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/mage/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/mage/foreground.png) |
+| Error     | `#FF5555` | ![error](../../dogs/mage/error.png) |
 
 ## UI Colors
 | Name          | Color           | |
@@ -32,5 +33,4 @@
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/mage/cursor_line.png) |
 | Selection    | `#264F78` | ![selection](../../dogs/mage/selection.png) |
 | On_Selection | `#ffffff` | ![on_selection](../../dogs/mage/on_selection.png) |
-| Error        | `#FF5555` | ![error](../../dogs/mage/error.png) |
 | Cursor       | `#ffdb29` | ![cursor](../../dogs/mage/cursor.png) |

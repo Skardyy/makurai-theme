@@ -6,7 +6,7 @@ foreground = '#FFFFFF'
 
 # Normal colors
 [colors.normal]
-black = '#000000'
+black = '#2b2b2b'
 red = '#FF5555'
 green = '#92c468'
 yellow = '#EAE87A'
@@ -17,14 +17,25 @@ white = '#FFFFFF'
 
 # Bright colors
 [colors.bright]
-black = '#6C6C6C'
-red = '#FF5555'
-green = '#92c468'
-yellow = '#EAE87A'
-blue = '#7C9EDB'
-magenta = '#ff79c6'
-cyan = '#7C9EDB'
-white = '#FFFFFF'
+black = '#363636'
+red = '#ff5d5d'
+green = '#a0d772'
+yellow = '#ffff86'
+blue = '#88adf0'
+magenta = '#ff85d9'
+cyan = '#88adf0'
+white = '#ffffff'
+
+# Dim colors
+[colors.dim]
+black = '#202020'
+red = '#e54c4c'
+green = '#83b05d'
+yellow = '#d2d06d'
+blue = '#6f8ec5'
+magenta = '#e56cb2'
+cyan = '#6f8ec5'
+white = '#e5e5e5'
 
 [colors.cursor]
 text = '#000000'

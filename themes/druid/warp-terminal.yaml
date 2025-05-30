@@ -7,16 +7,16 @@ foreground: #FFFFFF
 details: darker
 terminal_colors:
   bright:
-    black: '#000000'
-    red: #FF5555
-    green: #92c468
-    yellow: #EAE87A
-    blue: #7C9EDB
-    magenta: #D2A6FF
-    cyan: #7C9EDB
-    white: #FFFFFF
+    black: #363636
+    red: #ff5d5d
+    green: #a0d772
+    yellow: #ffff86
+    blue: #88adf0
+    magenta: #e7b6ff
+    cyan: #88adf0
+    white: #ffffff
   normal:
-    black: #6C6C6C
+    black: #2b2b2b
     red: #FF5555
     green: #92c468
     yellow: #EAE87A

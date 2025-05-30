@@ -15,6 +15,7 @@
 | Constant  | `#976700` | ![constant](../../dogs/healer/constant.png) |
 | Comment   | `#A0A1A7` | ![comment](../../dogs/healer/comment.png) |
 | Foreground| `#323640` | ![foreground](../../dogs/healer/foreground.png) |
+| Error     | `#CC0000` | ![error](../../dogs/healer/error.png) |
 
 ## UI Colors
 | Name          | Color           | |
@@ -32,5 +33,4 @@
 | Cursor Line  | `#f0f0fa` | ![cursor_line](../../dogs/healer/cursor_line.png) |
 | Selection    | `#C6DBFF` | ![selection](../../dogs/healer/selection.png) |
 | On_Selection | `#323640` | ![on_selection](../../dogs/healer/on_selection.png) |
-| Error        | `#CC0000` | ![error](../../dogs/healer/error.png) |
 | Cursor       | `#D4A017` | ![cursor](../../dogs/healer/cursor.png) |

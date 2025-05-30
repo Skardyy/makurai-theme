@@ -1,26 +1,26 @@
 # Makurai {{ name }} Theme 
 name: makurai-{{ name }}
-accent: {{ colors.syntax.type }}
+accent: {{ colors.syntax.type.normal }}
 cursor: {{ colors.other.cursor }}
 background: {{ colors.editor.bg }}
-foreground: {{ colors.syntax.foreground }}
+foreground: {{ colors.syntax.foreground.normal }}
 details: darker
 terminal_colors:
   bright:
-    black: '#000000'
-    red: {{ colors.other.error }}
-    green: {{ colors.syntax.string }}
-    yellow: {{ colors.syntax.function }}
-    blue: {{ colors.syntax.type }}
-    magenta: {{ colors.syntax.constant }}
-    cyan: {{ colors.syntax.type }}
-    white: {{ colors.syntax.foreground }}
+    black: {{ colors.syntax.comment.bright }}
+    red: {{ colors.syntax.error.bright }}
+    green: {{ colors.syntax.string.bright }}
+    yellow: {{ colors.syntax.function.bright }}
+    blue: {{ colors.syntax.type.bright }}
+    magenta: {{ colors.syntax.constant.bright }}
+    cyan: {{ colors.syntax.type.bright }}
+    white: {{ colors.syntax.foreground.bright }}
   normal:
-    black: {{ colors.syntax.comment }}
-    red: {{ colors.other.error }}
-    green: {{ colors.syntax.string }}
-    yellow: {{ colors.syntax.function }}
-    blue: {{ colors.syntax.type }}
-    magenta: {{ colors.syntax.special }}
-    cyan: {{ colors.syntax.type }}
-    white: {{ colors.syntax.foreground }}
+    black: {{ colors.syntax.comment.normal }}
+    red: {{ colors.syntax.error.normal }}
+    green: {{ colors.syntax.string.normal }}
+    yellow: {{ colors.syntax.function.normal }}
+    blue: {{ colors.syntax.type.normal }}
+    magenta: {{ colors.syntax.special.normal }}
+    cyan: {{ colors.syntax.type.normal }}
+    white: {{ colors.syntax.foreground.normal }}

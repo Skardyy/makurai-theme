@@ -1,0 +1,44 @@
+# Makurai Healer Theme for Rio Terminal
+
+[colors]
+# Background and foreground
+background = '#f8f8fc'
+foreground = '#323640'
+
+# Cursor colors
+cursor = '#D4A017'
+cursor-foreground = '#000000'
+
+# Selection colors
+selection-background = '#C6DBFF'
+selection-foreground = '#323640'
+
+# Normal colors (0-7)
+black = '#404042'
+red = '#CC0000'
+green = '#51A150'
+yellow = '#3D76F3'
+blue = '#AB31A9'
+magenta = '#976700'
+cyan = '#AB31A9'
+white = '#323640'
+
+# Bright colors (8-15)
+bright-black = '#505053'
+bright-red = '#e00000'
+bright-green = '#59b158'
+bright-yellow = '#4381ff'
+bright-blue = '#bc35b9'
+bright-magenta = '#f9499c'
+bright-cyan = '#bc35b9'
+bright-white = '#373b46'
+
+# Dim colors
+dim-black = '#303032'
+dim-red = '#b70000'
+dim-green = '#489048'
+dim-yellow = '#366ada'
+dim-blue = '#992c98'
+dim-magenta = '#cc3c7f'
+dim-cyan = '#992c98'
+dim-white = '#2d3039'

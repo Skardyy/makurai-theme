@@ -9,7 +9,8 @@
             "constant": "#D2A6FF",
             "special": "#ff79c6",
             "foreground": "#FFFFFF",
-            "comment": "#5C6773"
+            "comment": "#5C6773",
+            "error": "#FF5555"
         },
         "editor": {
             "bg": "#15161B",
@@ -24,7 +25,6 @@
             "cursor_line": "#1E1F24",
             "selection": "#264F78",
             "on_selection": "#ffffff",
-            "error": "#FF5555",
             "cursor": "#ffdb29"
         }
     }

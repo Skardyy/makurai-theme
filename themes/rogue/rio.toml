@@ -1,0 +1,44 @@
+# Makurai Rogue Theme for Rio Terminal
+
+[colors]
+# Background and foreground
+background = '#15161B'
+foreground = '#e8e8ea'
+
+# Cursor colors
+cursor = '#ffdb29'
+cursor-foreground = '#000000'
+
+# Selection colors
+selection-background = '#264F78'
+selection-foreground = '#ffffff'
+
+# Normal colors (0-7)
+black = '#24292e'
+red = '#FF5555'
+green = '#92c468'
+yellow = '#9d9eb0'
+blue = '#8e8e90'
+magenta = '#FF875F'
+cyan = '#8e8e90'
+white = '#e8e8ea'
+
+# Bright colors (8-15)
+bright-black = '#2e3339'
+bright-red = '#ff5d5d'
+bright-green = '#a0d772'
+bright-yellow = '#acadc1'
+bright-blue = '#9c9c9e'
+bright-magenta = '#ff9468'
+bright-cyan = '#9c9c9e'
+bright-white = '#ffffff'
+
+# Dim colors
+dim-black = '#1b1e22'
+dim-red = '#e54c4c'
+dim-green = '#83b05d'
+dim-yellow = '#8d8e9e'
+dim-blue = '#7f7f81'
+dim-magenta = '#e57955'
+dim-cyan = '#7f7f81'
+dim-white = '#d0d0d2'

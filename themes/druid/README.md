@@ -15,6 +15,7 @@
 | Constant  | `#D2A6FF` | ![constant](../../dogs/druid/constant.png) |
 | Comment   | `#6C6C6C` | ![comment](../../dogs/druid/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/druid/foreground.png) |
+| Error     | `#FF5555` | ![error](../../dogs/druid/error.png) |
 
 ## UI Colors
 | Name          | Color           | |
@@ -32,5 +33,4 @@
 | Cursor Line  | `#262623` | ![cursor_line](../../dogs/druid/cursor_line.png) |
 | Selection    | `#2D4A6F` | ![selection](../../dogs/druid/selection.png) |
 | On_Selection | `#ffffff` | ![on_selection](../../dogs/druid/on_selection.png) |
-| Error        | `#FF5555` | ![error](../../dogs/druid/error.png) |
 | Cursor       | `#ffdb29` | ![cursor](../../dogs/druid/cursor.png) |
