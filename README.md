@@ -31,15 +31,15 @@
 <tr/>
 <tr>
     <td align="center">
-      <a href="./themes/healer">
-        <b>Healer</b><br>
-        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/healer/thumbnail.png"/>
+      <a href="./themes/warrior">
+        <b>Warrior</b><br>
+        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/warrior/thumbnail.png"/>
       </a>
     </td>
     <td align="center">
-      <a href="./themes/druid">
-        <b>Druid</b><br>
-        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/druid/thumbnail.png"/>
+      <a href="./themes/healer">
+        <b>Healer</b><br>
+        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/healer/thumbnail.png"/>
       </a>
     </td>
   </tr>

@@ -1,0 +1,44 @@
+# Makurai Warrior Theme for Rio Terminal
+
+[colors]
+# Background and foreground
+background = '#14161f'
+foreground = '#FFFFFF'
+
+# Cursor colors
+cursor = '#ffdb29'
+cursor-foreground = '#000000'
+
+# Selection colors
+selection-background = '#264F78'
+selection-foreground = '#ffffff'
+
+# Normal colors (0-7)
+black = '#24292e'
+red = '#FF5555'
+green = '#98eb7a'
+yellow = '#789CEA'
+blue = '#F4C367'
+magenta = '#FF875F'
+cyan = '#F4C367'
+white = '#FFFFFF'
+
+# Bright colors (8-15)
+bright-black = '#2e3339'
+bright-red = '#ff5d5d'
+bright-green = '#a7ff86'
+bright-yellow = '#84abff'
+bright-blue = '#ffd671'
+bright-magenta = '#ffd671'
+bright-cyan = '#ffd671'
+bright-white = '#ffffff'
+
+# Dim colors
+dim-black = '#1b1e22'
+dim-red = '#e54c4c'
+dim-green = '#88d36d'
+dim-yellow = '#6c8cd2'
+dim-blue = '#dbaf5c'
+dim-magenta = '#dbaf5c'
+dim-cyan = '#dbaf5c'
+dim-white = '#e5e5e5'

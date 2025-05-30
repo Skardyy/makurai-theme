@@ -1,14 +1,14 @@
-/* Makurai Druid Theme */
+/* Makurai Warrior Theme */
 
 :root {
-  --vimium-orange: #FF875F;
-  --vimium-yellow: #EAE87A;
-  --vimium-green: #92c468;
+  --vimium-orange: #dc74ed;
+  --vimium-yellow: #789CEA;
+  --vimium-green: #98eb7a;
   --vimium-text: #FFFFFF;
-  --vimium-surface2: #262626;
-  --vimium-background: #18191B;
-  --vimium-comment: #6C6C6C;
-  --vimium-line: #262626;
+  --vimium-surface2: #20202b;
+  --vimium-background: #14161f;
+  --vimium-comment: #5C6773;
+  --vimium-line: #25282E;
 }
 
 #vomnibar,

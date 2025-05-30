@@ -1,0 +1,31 @@
+{
+    "name": "Warrior",
+    "colors": {
+        "syntax": {
+            "keyword": "#dc74ed",
+            "function": "#789CEA",
+            "string": "#98eb7a",
+            "type": "#F4C367",
+            "constant": "#FF875F",
+            "special": "#F4C367",
+            "foreground": "#FFFFFF",
+            "comment": "#5C6773",
+            "error": "#FF5555"
+        },
+        "editor": {
+            "bg": "#14161f",
+            "surface": "#08090D",
+            "bg_alt": "#15161B",
+            "surface_alt": "#20202b",
+            "border": "#A6ACCD"
+        },
+        "other": {
+            "guide": "#2D3640",
+            "line_nr": "#25282E",
+            "cursor_line": "#1E1F24",
+            "selection": "#264F78",
+            "on_selection": "#ffffff",
+            "cursor": "#ffdb29"
+        }
+    }
+}
