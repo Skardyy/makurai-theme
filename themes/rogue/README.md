@@ -9,9 +9,9 @@
 | Name      | Color          | |
 |-----------|----------------|-|
 | Keyword   | `#f7e254` | ![keyword](../../dogs/rogue/keyword.png) |
-| Function  | `#9d9eb0` | ![function](../../dogs/rogue/function.png) |
+| Function  | `#95A4C6` | ![function](../../dogs/rogue/function.png) |
 | String    | `#92c468` | ![string](../../dogs/rogue/string.png) |
-| Type      | `#8e8e90` | ![type](../../dogs/rogue/type.png) |
+| Type      | `#C4873A` | ![type](../../dogs/rogue/type.png) |
 | Constant  | `#FF875F` | ![constant](../../dogs/rogue/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/rogue/comment.png) |
 | Foreground| `#e8e8ea` | ![foreground](../../dogs/rogue/foreground.png) |

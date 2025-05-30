@@ -1,6 +1,6 @@
 # Makurai Rogue Theme 
 name: makurai-Rogue
-accent: #8e8e90
+accent: #C4873A
 cursor: #ffdb29
 background: #15161B
 foreground: #e8e8ea
@@ -10,17 +10,17 @@ terminal_colors:
     black: #2e3339
     red: #ff5d5d
     green: #a0d772
-    yellow: #acadc1
-    blue: #9c9c9e
+    yellow: #a3b4d9
+    blue: #d7943f
     magenta: #ff9468
-    cyan: #9c9c9e
+    cyan: #d7943f
     white: #ffffff
   normal:
     black: #24292e
     red: #FF5555
     green: #92c468
-    yellow: #9d9eb0
-    blue: #8e8e90
+    yellow: #95A4C6
+    blue: #C4873A
     magenta: #FF875F
-    cyan: #8e8e90
+    cyan: #C4873A
     white: #e8e8ea

@@ -13,15 +13,34 @@
 </div>
 
 <p align="center">Each variant has its own folder. neovim is done seperatly</p>
-<p align="center">
-  <kbd><b>Mage</b><br><a href="./themes/mage"><img width="256" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/mage/thumbnail.png"/></a></kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><b>Rogue</b><br><a href="./themes/rogue"><img width="256" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/rogue/thumbnail.png"/></a></kbd>
-</p>
-<p align="center">
-  <kbd><b>Healer</b><br><a href="./themes/healer"><img width="256" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/healer/thumbnail.png"/></a></kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><b>Druid</b><br><a href="./themes/druid"><img width="256" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/druid/thumbnail.png"/></a></kbd>
-</p>
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="./themes/mage">
+        <b>Mage</b><br>
+        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/mage/thumbnail.png"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./themes/rogue">
+        <b>Rogue</b><br>
+        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/rogue/thumbnail.png"/>
+      </a>
+    </td>
+  </tr>
+<tr/>
+<tr>
+    <td align="center">
+      <a href="./themes/healer">
+        <b>Healer</b><br>
+        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/healer/thumbnail.png"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./themes/druid">
+        <b>Druid</b><br>
+        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/druid/thumbnail.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
