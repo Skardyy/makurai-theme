@@ -17,6 +17,18 @@
 | Foreground| `#e8e8ea` | ![foreground](../../dogs/rogue/foreground.png) |
 | Error     | `#FF5555` | ![error](../../dogs/rogue/error.png) |
 
+## ANSI Colors
+| Name    | Color                              |                                                           |
+| ------- | ---------------------------------- | --------------------------------------------------------- |
+| Black   | `#2e3339`   | ![black](../../dogs/rogueansi_black.png)     |
+| Red     | `#FF5555`     | ![red](../../dogs/rogueansi_red.png)         |
+| Green   | `#92c468`   | ![green](../../dogs/rogueansi_green.png)     |
+| Yellow  | `#f7e254`  | ![yellow](../../dogs/rogueansi_yellow.png)   |
+| Blue    | `#94A3C5`    | ![blue](../../dogs/rogueansi_blue.png)       |
+| Magenta | `#978ebe` | ![magenta](../../dogs/rogueansi_magenta.png) |
+| Cyan    | `#94A3C5`    | ![cyan](../../dogs/rogueansi_cyan.png)       |
+| White   | `#e8e8ea`   | ![white](../../dogs/rogueansi_white.png)     |
+
 ## UI Colors
 | Name          | Color           | |
 |---------------|-----------------|-|

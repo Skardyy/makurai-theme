@@ -17,6 +17,18 @@
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/mage/foreground.png) |
 | Error     | `#FF5555` | ![error](../../dogs/mage/error.png) |
 
+## ANSI Colors
+| Name    | Color                              |                                                           |
+| ------- | ---------------------------------- | --------------------------------------------------------- |
+| Black   | `#2e3339`   | ![black](../../dogs/mageansi_black.png)     |
+| Red     | `#FF5555`     | ![red](../../dogs/mageansi_red.png)         |
+| Green   | `#95FB79`   | ![green](../../dogs/mageansi_green.png)     |
+| Yellow  | `#FFEE99`  | ![yellow](../../dogs/mageansi_yellow.png)   |
+| Blue    | `#82AAFF`    | ![blue](../../dogs/mageansi_blue.png)       |
+| Magenta | `#D2A6FF` | ![magenta](../../dogs/mageansi_magenta.png) |
+| Cyan    | `#82AAFF`    | ![cyan](../../dogs/mageansi_cyan.png)       |
+| White   | `#FFFFFF`   | ![white](../../dogs/mageansi_white.png)     |
+
 ## UI Colors
 | Name          | Color           | |
 |---------------|-----------------|-|

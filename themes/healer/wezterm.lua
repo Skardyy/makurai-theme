@@ -10,23 +10,23 @@ config.colors = {
   selection_bg = "#C6DBFF",
   split = "#7e8a9e",
   ansi = {
-    "#404042",
+    "#505053",
     "#CC0000",
     "#51A150",
+    "#976700",
     "#3D76F3",
     "#AB31A9",
-    "#976700",
-    "#AB31A9",
+    "#3D76F3",
     "#323640",
   },
   brights = {
-    "#505053",
+    "#808085",
     "#e00000",
     "#59b158",
+    "#a67100",
     "#4381ff",
     "#bc35b9",
-    "#f9499c",
-    "#bc35b9",
+    "#4381ff",
     "#373b46",
   },
   tab_bar = {
@@ -37,7 +37,7 @@ config.colors = {
     },
     inactive_tab = {
       bg_color = "#f8f8fc",
-      fg_color = "#404042",
+      fg_color = "#505053",
     },
     inactive_tab_hover = {
       bg_color = "#ebebf4",
@@ -45,7 +45,7 @@ config.colors = {
     },
     new_tab = {
       bg_color = "#f8f8fc",
-      fg_color = "#404042",
+      fg_color = "#505053",
     },
     new_tab_hover = {
       bg_color = "#3D76F3",

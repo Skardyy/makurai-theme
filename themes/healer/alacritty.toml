@@ -6,24 +6,24 @@ foreground = '#323640'
 
 # Normal colors
 [colors.normal]
-black = '#404042'
+black = '#505053'
 red = '#CC0000'
 green = '#51A150'
-yellow = '#3D76F3'
-blue = '#AB31A9'
-magenta = '#976700'
-cyan = '#AB31A9'
+yellow = '#976700'
+blue = '#3D76F3'
+magenta = '#AB31A9'
+cyan = '#3D76F3'
 white = '#323640'
 
 # Bright colors
 [colors.bright]
-black = '#505053'
+black = '#808085'
 red = '#e00000'
 green = '#59b158'
-yellow = '#4381ff'
-blue = '#bc35b9'
-magenta = '#f9499c'
-cyan = '#bc35b9'
+yellow = '#a67100'
+blue = '#4381ff'
+magenta = '#bc35b9'
+cyan = '#4381ff'
 white = '#373b46'
 
 # Dim colors
@@ -31,10 +31,10 @@ white = '#373b46'
 black = '#303032'
 red = '#b70000'
 green = '#489048'
-yellow = '#366ada'
-blue = '#992c98'
-magenta = '#cc3c7f'
-cyan = '#992c98'
+yellow = '#875c00'
+blue = '#366ada'
+magenta = '#992c98'
+cyan = '#366ada'
 white = '#2d3039'
 
 [colors.cursor]

@@ -7,10 +7,19 @@
             "string": "#98eb7a",
             "type": "#F4C367",
             "constant": "#FF875F",
-            "special": "#F4C367",
             "foreground": "#FFFFFF",
             "comment": "#5C6773",
             "error": "#FF5555"
+        },
+        "ansi": {
+            "black": "#5C6773",
+            "red": "#FF5555",
+            "green": "#98eb7a",
+            "yellow": "#F4C367",
+            "blue": "#789CEA",
+            "magenta": "#dc74ed",
+            "cyan": "#789CEA",
+            "white": "#FFFFFF"
         },
         "editor": {
             "bg": "#14161f",

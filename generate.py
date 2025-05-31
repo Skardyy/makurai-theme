@@ -22,16 +22,16 @@ def expand_palette_colors(palette):
     expanded_palette = palette.copy()
 
     # Only process syntax colors
-    if 'syntax' in palette['colors']:
-        for color_name, hex_color in palette['colors']['syntax'].items():
-            if color_name == 'comment':
-                # Special handling for comment - use it as bright, create dim/normal
-                comment_rgb = hex_to_rgb(hex_color)
-                dim_rgb = tuple(int(c * 0.3) for c in comment_rgb)
-                normal_rgb = tuple(int(c * 0.4) for c in comment_rgb)
-                bright_rgb = tuple(int(c * 0.5) for c in comment_rgb)
+    if 'ansi' in palette['colors']:
+        for color_name, hex_color in palette['colors']['ansi'].items():
+            if color_name == 'black':
+                # Special handling for black
+                black_rgb = hex_to_rgb(hex_color)
+                dim_rgb = tuple(int(c * 0.3) for c in black_rgb)
+                normal_rgb = tuple(int(c * 0.5) for c in black_rgb)
+                bright_rgb = tuple(int(c * 0.8) for c in black_rgb)
 
-                expanded_palette['colors']['syntax'][color_name] = {
+                expanded_palette['colors']['ansi'][color_name] = {
                     "dim": rgb_to_hex(dim_rgb),
                     "normal": rgb_to_hex(normal_rgb),
                     "bright": rgb_to_hex(bright_rgb),
@@ -39,7 +39,7 @@ def expand_palette_colors(palette):
                 }
             else:
                 # Standard color expansion
-                expanded_palette['colors']['syntax'][color_name] = create_color_variants(
+                expanded_palette['colors']['ansi'][color_name] = create_color_variants(
                     hex_color)
 
     return expanded_palette
@@ -71,6 +71,12 @@ def generate_assets(palette):
 
     # Create images for syntax colors
     for color_name, hex_color in palette['colors']['syntax'].items():
+        rgb_color = hex_to_rgb(hex_color)
+        img = Image.new('RGB', (20, 20), rgb_color)
+        img.save(os.path.join(dogs_dir, f'{color_name}.png'))
+
+    # Create images for syntax colors
+    for color_name, hex_color in palette['colors']['ansi'].items():
         rgb_color = hex_to_rgb(hex_color['normal'])
         img = Image.new('RGB', (20, 20), rgb_color)
         img.save(os.path.join(dogs_dir, f'{color_name}.png'))
