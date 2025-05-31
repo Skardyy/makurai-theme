@@ -18,16 +18,16 @@
 | Error     | `#CC0000` | ![error](../../dogs/healer/error.png) |
 
 ## ANSI Colors
-| Name    | Color                              |                                                           |
-| ------- | ---------------------------------- | --------------------------------------------------------- |
-| Black   | `#505053`   | ![black](../../dogs/healeransi_black.png)     |
-| Red     | `#CC0000`     | ![red](../../dogs/healeransi_red.png)         |
-| Green   | `#51A150`   | ![green](../../dogs/healeransi_green.png)     |
-| Yellow  | `#976700`  | ![yellow](../../dogs/healeransi_yellow.png)   |
-| Blue    | `#3D76F3`    | ![blue](../../dogs/healeransi_blue.png)       |
-| Magenta | `#AB31A9` | ![magenta](../../dogs/healeransi_magenta.png) |
-| Cyan    | `#3D76F3`    | ![cyan](../../dogs/healeransi_cyan.png)       |
-| White   | `#323640`   | ![white](../../dogs/healeransi_white.png)     |
+| Name    | Color                              |                                                       |
+| ------- | ---------------------------------- | ----------------------------------------------------- |
+| Black   | `#505053`   | ![black](../../dogs/healer/black.png)     |
+| Red     | `#CC0000`     | ![red](../../dogs/healer/red.png)         |
+| Green   | `#51A150`   | ![green](../../dogs/healer/green.png)     |
+| Yellow  | `#976700`  | ![yellow](../../dogs/healer/yellow.png)   |
+| Blue    | `#3D76F3`    | ![blue](../../dogs/healer/blue.png)       |
+| Magenta | `#AB31A9` | ![magenta](../../dogs/healer/magenta.png) |
+| Cyan    | `#3D76F3`    | ![cyan](../../dogs/healer/cyan.png)       |
+| White   | `#323640`   | ![white](../../dogs/healer/white.png)     |
 
 ## UI Colors
 | Name          | Color           | |

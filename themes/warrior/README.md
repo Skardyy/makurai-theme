@@ -18,16 +18,16 @@
 | Error     | `#FF5555` | ![error](../../dogs/warrior/error.png) |
 
 ## ANSI Colors
-| Name    | Color                              |                                                           |
-| ------- | ---------------------------------- | --------------------------------------------------------- |
-| Black   | `#2e3339`   | ![black](../../dogs/warrioransi_black.png)     |
-| Red     | `#FF5555`     | ![red](../../dogs/warrioransi_red.png)         |
-| Green   | `#98eb7a`   | ![green](../../dogs/warrioransi_green.png)     |
-| Yellow  | `#F4C367`  | ![yellow](../../dogs/warrioransi_yellow.png)   |
-| Blue    | `#789CEA`    | ![blue](../../dogs/warrioransi_blue.png)       |
-| Magenta | `#dc74ed` | ![magenta](../../dogs/warrioransi_magenta.png) |
-| Cyan    | `#789CEA`    | ![cyan](../../dogs/warrioransi_cyan.png)       |
-| White   | `#FFFFFF`   | ![white](../../dogs/warrioransi_white.png)     |
+| Name    | Color                              |                                                       |
+| ------- | ---------------------------------- | ----------------------------------------------------- |
+| Black   | `#2e3339`   | ![black](../../dogs/warrior/black.png)     |
+| Red     | `#FF5555`     | ![red](../../dogs/warrior/red.png)         |
+| Green   | `#98eb7a`   | ![green](../../dogs/warrior/green.png)     |
+| Yellow  | `#F4C367`  | ![yellow](../../dogs/warrior/yellow.png)   |
+| Blue    | `#789CEA`    | ![blue](../../dogs/warrior/blue.png)       |
+| Magenta | `#dc74ed` | ![magenta](../../dogs/warrior/magenta.png) |
+| Cyan    | `#789CEA`    | ![cyan](../../dogs/warrior/cyan.png)       |
+| White   | `#FFFFFF`   | ![white](../../dogs/warrior/white.png)     |
 
 ## UI Colors
 | Name          | Color           | |
