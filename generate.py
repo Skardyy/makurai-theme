@@ -118,6 +118,7 @@ def generate_files(palette):
     templates = [
         'README.md.j2',
         'rio.toml.j2',
+        'ghostty.j2',
         'alacritty.toml.j2',
         'kitty.conf.j2',
         'vimium.css.j2',

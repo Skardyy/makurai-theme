@@ -1,0 +1,22 @@
+# Makurai Warrior Theme
+background = #14161f
+foreground = #FFFFFF
+selection-foreground = #ffffff
+selection-background = #264F78
+cursor-color = #ffdb29
+palette = 0=#2e3339
+palette = 1=#FF5555
+palette = 2=#98eb7a
+palette = 3=#F4C367
+palette = 4=#789CEA
+palette = 5=#dc74ed
+palette = 6=#789CEA
+palette = 7=#FFFFFF
+palette = 8=#49525c
+palette = 9=#ff5d5d
+palette = 10=#a7ff86
+palette = 11=#ffd671
+palette = 12=#84abff
+palette = 13=#f27fff
+palette = 14=#84abff
+palette = 15=#ffffff

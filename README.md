@@ -1,18 +1,26 @@
-<h1 align="center">Makurai Theme</h1>  
-<p align="center">A simple and bright theme for</p>
 <div align="center">
-  
-  [![Static Badge](https://img.shields.io/badge/neovim-15161b?style=flat&logo=neovim)](https://github.com/Skardyy/makurai-nvim) ˙ [![Static Badge](https://img.shields.io/badge/vscode-15161b?style=flat&logo=vscodium&)](https://github.com/Skardyy/makurai-vscode)
-  
-![Static Badge](https://img.shields.io/badge/alacritty-15161b?style=flat&logo=alacritty) ˙ ![Static Badge](https://img.shields.io/badge/wezterm-15161b?style=flat&logo=wezterm&logoColor=%237f7bed) ˙ ![Static Badge](https://img.shields.io/badge/windows%20terminal-15161b?style=flat&logo=educative&logoColor=%23aaaaaa) ˙ ![Static Badge](https://img.shields.io/badge/kitty-15161b?style=flat&logo=refinedgithub&logoColor=%23c46f36) ˙ ![Static Badge](https://img.shields.io/badge/warp%20terminal-15161b?style=flat&logo=warp&logoColor=01A4FF)
 
-*And More!*
+<img src="https://github.com/user-attachments/assets/ae5d01ef-398d-4138-951d-c2837f5c3193" opacity=0.5 width=256 height=256/>
+
+# Makurai Theme
+
+***Less Colors More Contrast***
+
+[![Static Badge](https://img.shields.io/badge/neovim-20202b?style=for-the-badge&logo=neovim)](https://github.com/Skardyy/makurai-nvim)
+[![Static Badge](https://img.shields.io/badge/vscode-20202b?style=for-the-badge&logo=vscodium&)](https://github.com/Skardyy/makurai-vscode)
+  
+![Static Badge](https://img.shields.io/badge/Ghostty-20202b?style=for-the-badge&logo=ghostery&logoColor=FFF)
+![Static Badge](https://img.shields.io/badge/kitty-20202b?style=for-the-badge&logo=refinedgithub&logoColor=c46f36)
+![Static Badge](https://img.shields.io/badge/Alacritty-20202b?style=for-the-badge&logo=alacritty)
+![Static Badge](https://img.shields.io/badge/Wezterm-20202b?style=for-the-badge&logo=wezterm&logoColor=7f7bed)
+![Static Badge](https://img.shields.io/badge/Wt-20202b?style=for-the-badge&logo=educative&logoColor=aaaaaa)
+![Static Badge](https://img.shields.io/badge/Warp-20202b?style=for-the-badge&logo=warp&logoColor=01A4FF)
 
 ---
 
 </div>
 
-<p align="center">Each variant has its own folder. neovim is done seperatly</p>
+<p align="center">Click on the theme you want</p>
 <table align="center">
   <tr>
     <td align="center">

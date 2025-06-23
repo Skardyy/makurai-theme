@@ -1,0 +1,22 @@
+# Makurai Rogue Theme
+background = #15161B
+foreground = #e8e8ea
+selection-foreground = #ffffff
+selection-background = #264F78
+cursor-color = #ffdb29
+palette = 0=#2e3339
+palette = 1=#FF5555
+palette = 2=#92c468
+palette = 3=#f7e254
+palette = 4=#94A3C5
+palette = 5=#978ebe
+palette = 6=#94A3C5
+palette = 7=#e8e8ea
+palette = 8=#49525c
+palette = 9=#ff5d5d
+palette = 10=#a0d772
+palette = 11=#fff85c
+palette = 12=#a2b3d8
+palette = 13=#a69cd1
+palette = 14=#a2b3d8
+palette = 15=#ffffff
