@@ -9,16 +9,16 @@
             "constant": "#a8ceba",
             "foreground": "#FFFFFF",
             "comment": "#5C6773",
-            "error": "#FF5555"
+            "error": "#fc4747"
         },
         "ansi": {
             "black": "#5C6773",
-            "red": "#FF5555",
-            "green": "#98eb7a",
+            "red": "#ff5f5f",
+            "green": "#92c468",
             "yellow": "#F4C367",
-            "blue": "#789CEA",
-            "magenta": "#dc74ed",
-            "cyan": "#789CEA",
+            "blue": "#a8ceba",
+            "magenta": "#D2A6FF",
+            "cyan": "#a8ceba",
             "white": "#FFFFFF"
         },
         "editor": {

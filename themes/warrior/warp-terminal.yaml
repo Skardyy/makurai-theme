@@ -1,6 +1,6 @@
 # Makurai Warrior Theme 
 name: makurai-Warrior
-accent: #789CEA
+accent: #a8ceba
 cursor: #ffdb29
 background: #15161B
 foreground: #FFFFFF
@@ -8,19 +8,19 @@ details: darker
 terminal_colors:
   bright:
     black: #49525c
-    red: #ff5d5d
-    green: #a7ff86
+    red: #ff6868
+    green: #a0d772
     yellow: #ffd671
-    blue: #84abff
-    magenta: #f27fff
-    cyan: #84abff
+    blue: #b8e2cc
+    magenta: #e7b6ff
+    cyan: #b8e2cc
     white: #ffffff
   normal:
     black: #2e3339
-    red: #FF5555
-    green: #98eb7a
+    red: #ff5f5f
+    green: #92c468
     yellow: #F4C367
-    blue: #789CEA
-    magenta: #dc74ed
-    cyan: #789CEA
+    blue: #a8ceba
+    magenta: #D2A6FF
+    cyan: #a8ceba
     white: #FFFFFF

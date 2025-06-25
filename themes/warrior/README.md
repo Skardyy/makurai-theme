@@ -15,18 +15,18 @@
 | Constant  | `#a8ceba` | ![constant](../../dogs/warrior/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/warrior/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/warrior/foreground.png) |
-| Error     | `#FF5555` | ![error](../../dogs/warrior/error.png) |
+| Error     | `#fc4747` | ![error](../../dogs/warrior/error.png) |
 
 ## ANSI Colors
 | Name    | Color                              |                                                       |
 | ------- | ---------------------------------- | ----------------------------------------------------- |
 | Black   | `#2e3339`   | ![black](../../dogs/warrior/black.png)     |
-| Red     | `#FF5555`     | ![red](../../dogs/warrior/red.png)         |
-| Green   | `#98eb7a`   | ![green](../../dogs/warrior/green.png)     |
+| Red     | `#ff5f5f`     | ![red](../../dogs/warrior/red.png)         |
+| Green   | `#92c468`   | ![green](../../dogs/warrior/green.png)     |
 | Yellow  | `#F4C367`  | ![yellow](../../dogs/warrior/yellow.png)   |
-| Blue    | `#789CEA`    | ![blue](../../dogs/warrior/blue.png)       |
-| Magenta | `#dc74ed` | ![magenta](../../dogs/warrior/magenta.png) |
-| Cyan    | `#789CEA`    | ![cyan](../../dogs/warrior/cyan.png)       |
+| Blue    | `#a8ceba`    | ![blue](../../dogs/warrior/blue.png)       |
+| Magenta | `#D2A6FF` | ![magenta](../../dogs/warrior/magenta.png) |
+| Cyan    | `#a8ceba`    | ![cyan](../../dogs/warrior/cyan.png)       |
 | White   | `#FFFFFF`   | ![white](../../dogs/warrior/white.png)     |
 
 ## UI Colors
