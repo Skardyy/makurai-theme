@@ -8,11 +8,11 @@
 ## Syntax Colors
 | Name      | Color          | |
 |-----------|----------------|-|
-| Keyword   | `#dc74ed` | ![keyword](../../dogs/warrior/keyword.png) |
-| Function  | `#789CEA` | ![function](../../dogs/warrior/function.png) |
-| String    | `#98eb7a` | ![string](../../dogs/warrior/string.png) |
+| Keyword   | `#ff5f5f` | ![keyword](../../dogs/warrior/keyword.png) |
+| Function  | `#92c468` | ![function](../../dogs/warrior/function.png) |
+| String    | `#FFEE99` | ![string](../../dogs/warrior/string.png) |
 | Type      | `#F4C367` | ![type](../../dogs/warrior/type.png) |
-| Constant  | `#FF875F` | ![constant](../../dogs/warrior/constant.png) |
+| Constant  | `#a8ceba` | ![constant](../../dogs/warrior/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/warrior/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/warrior/foreground.png) |
 | Error     | `#FF5555` | ![error](../../dogs/warrior/error.png) |
@@ -32,10 +32,10 @@
 ## UI Colors
 | Name          | Color           | |
 |---------------|-----------------|-|
-| Background    | `#14161f` | ![bg](../../dogs/warrior/bg.png) |
+| Background    | `#15161B` | ![bg](../../dogs/warrior/bg.png) |
 | Surface       | `#08090D` | ![surface](../../dogs/warrior/surface.png) |
-| Background 2  | `#15161B` | ![bg_alt](../../dogs/warrior/bg_alt.png) |
-| Surface 2     | `#20202b` | ![surface_alt](../../dogs/warrior/surface_alt.png) |
+| Background 2  | `#14161f` | ![bg_alt](../../dogs/warrior/bg_alt.png) |
+| Surface 2     | `#1C1F2E` | ![surface_alt](../../dogs/warrior/surface_alt.png) |
 | Border        | `#A6ACCD` | ![border](../../dogs/warrior/border.png) |
 
 ## Other

@@ -35,7 +35,7 @@
 | Background    | `#15161B` | ![bg](../../dogs/mage/bg.png) |
 | Surface       | `#08090D` | ![surface](../../dogs/mage/surface.png) |
 | Background 2  | `#14161f` | ![bg_alt](../../dogs/mage/bg_alt.png) |
-| Surface 2     | `#20202b` | ![surface_alt](../../dogs/mage/surface_alt.png) |
+| Surface 2     | `#1C1F2E` | ![surface_alt](../../dogs/mage/surface_alt.png) |
 | Border        | `#A6ACCD` | ![border](../../dogs/mage/border.png) |
 
 ## Other

@@ -1,7 +1,7 @@
 # Makurai Warrior Theme
 # Default colors
 [colors.primary]
-background = '#14161f'
+background = '#15161B'
 foreground = '#FFFFFF'
 
 # Normal colors

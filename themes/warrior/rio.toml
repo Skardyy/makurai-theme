@@ -2,7 +2,7 @@
 
 [colors]
 # Background and foreground
-background = '#14161f'
+background = '#15161B'
 foreground = '#FFFFFF'
 
 # Cursor colors
