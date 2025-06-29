@@ -32,7 +32,7 @@ config.colors = {
   tab_bar = {
     background = {{ colors.editor.bg | tojson }},
     active_tab = {
-      bg_color = {{ colors.editor.surface_alt | tojson }},
+      bg_color = {{ colors.editor.bg | tojson }},
       fg_color = {{ colors.ansi.white.normal | tojson }},
     },
     inactive_tab = {
@@ -40,7 +40,7 @@ config.colors = {
       fg_color = {{ colors.ansi.black.normal | tojson }},
     },
     inactive_tab_hover = {
-      bg_color = {{ colors.editor.bg_alt | tojson }},
+      bg_color = {{ colors.other.line_nr | tojson }},
       fg_color = {{ colors.ansi.white.normal | tojson }},
     },
     new_tab = {

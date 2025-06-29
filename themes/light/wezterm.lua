@@ -32,7 +32,7 @@ config.colors = {
   tab_bar = {
     background = "#f8f8fc",
     active_tab = {
-      bg_color = "#f0f0f9",
+      bg_color = "#f8f8fc",
       fg_color = "#323640",
     },
     inactive_tab = {
@@ -40,7 +40,7 @@ config.colors = {
       fg_color = "#505053",
     },
     inactive_tab_hover = {
-      bg_color = "#ebebf4",
+      bg_color = "#3D76F3",
       fg_color = "#323640",
     },
     new_tab = {
