@@ -22,45 +22,47 @@
       box-sizing: border-box;
     }
 
-    body {
+    html, body {
       background-color: transparent;
       color: var(--fg);
       font-family: 'CaskaydiaCoveNerdFont', monospace;
       margin: 0;
-      padding: 2rem;
+      padding: min(2vw, 2vh);
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
+      width: 100vw;
     }
 
     .terminal {
       background-color: var(--bg);
-      padding: 2rem;
-      border-radius: 10px;
-      width: 700px;
+      padding: min(3vw, 3vh);
+      border-radius: min(2vw, 2vh);
       box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
       position: relative;
+      width: 90vw;
+      height 45vh;
     }
 
-    .terminal::before {
+   .terminal::before {
       content: '';
       position: absolute;
-      top: 1rem;
-      left: 1rem;
-      width: 10px;
-      height: 10px;
+      top: min(3vw, 3vh);
+      right: min(3vw, 3vh);
+      width: 1.5vw;
+      height: 1.5vw;
       background-color: #ff5f56;
       border-radius: 50%;
       box-shadow:
-        20px 0 0 #ffbd2e,
-        40px 0 0 #27c93f;
+        -2vw 0 0 #ffbd2e,
+        -4vw 0 0 #27c93f;
     }
 
     pre {
       margin: 0;
-      font-size: 14px;
-      line-height: 1.6;
+      font-size: 1.8vw;
+      line-height: 1.3;
       white-space: pre;
     }
 
@@ -80,8 +82,7 @@
 </head>
 <body>
   <div class="terminal">
-    <pre><code>
-<span class="keyword">func</span> <span class="function">main</span>() {
+    <pre><code><span class="keyword">func</span> <span class="function">main</span>() {
   <span class="keyword">var</span> cache <span class="type">string</span>
   <span class="keyword">var</span> center <span class="type">bool</span>
   <span class="keyword">var</span> fallback <span class="type">string</span>
@@ -94,6 +95,11 @@
   flag.<span class="function">StringVar</span>(&fallback, <span class="string">"f"</span>, <span class="string">"ascii"</span>, <span class="string">"fallback protocol"</span>)
   flag.<span class="function">StringVar</span>(&scale, <span class="string">"scale"</span>, <span class="string">"1x1"</span>, <span class="string">"float for scaling the image"</span>)
   flag.<span class="function">BoolVar</span>(&cache, <span class="string">"cache"</span>, <span class="constant">true</span>, <span class="string">"rather or not to cache the heavy operations"</span>)
+  flag.<span class="function">BoolFunc</span>(<span class="string">"version"</span>, <span class="string">"prints the version number"</span>, <span class="keyword">func</span>(s <span class="type">string</span>) <span class="type">error</span> {
+      <span class="function">println</span>(version)
+      <span class="keyword">defer</span> os.<span class="function">Exit</span>(<span class="constant">0</span>)
+      <span class="keyword">return</span> <span class="constant">nil</span>
+    })
 }
 </code></pre>
   </div>
