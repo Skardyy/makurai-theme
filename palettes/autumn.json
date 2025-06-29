@@ -1,0 +1,40 @@
+{
+    "name": "Autumn",
+    "colors": {
+        "syntax": {
+            "keyword": "#fc6501",
+            "function": "#fac25a",
+            "string": "#a1cd32",
+            "type": "#fc4c4c",
+            "constant": "#FF6B9D",
+            "foreground": "#FFFFFF",
+            "error": "#fc4747",
+            "comment": "#5C6773"
+        },
+        "ansi": {
+            "black": "#5C6773",
+            "red": "#fc4c4c",
+            "green": "#a1cd32",
+            "yellow": "#fac25a",
+            "blue": "#5abffa",
+            "magenta": "#FF6B9D",
+            "cyan": "#5abffa",
+            "white": "#FFFFFF"
+        },
+        "editor": {
+            "bg": "#15161B",
+            "surface": "#08090D",
+            "bg_alt": "#14161f",
+            "surface_alt": "#1C1F2E",
+            "border": "#A6ACCD"
+        },
+        "other": {
+            "guide": "#2D3640",
+            "line_nr": "#25282E",
+            "cursor_line": "#1E1F24",
+            "selection": "#264F78",
+            "on_selection": "#ffffff",
+            "cursor": "#ffdb29"
+        }
+    }
+}

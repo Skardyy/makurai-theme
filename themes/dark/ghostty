@@ -1,0 +1,22 @@
+# Makurai Dark Theme
+background = #15161B
+foreground = #FFFFFF
+selection-foreground = #ffffff
+selection-background = #264F78
+cursor-color = #ffdb29
+palette = 0=#2e3339
+palette = 1=#FF5555
+palette = 2=#95FB79
+palette = 3=#FFEE99
+palette = 4=#82AAFF
+palette = 5=#D2A6FF
+palette = 6=#82AAFF
+palette = 7=#FFFFFF
+palette = 8=#49525c
+palette = 9=#ff5d5d
+palette = 10=#a3ff85
+palette = 11=#ffffa8
+palette = 12=#8fbbff
+palette = 13=#e7b6ff
+palette = 14=#8fbbff
+palette = 15=#ffffff

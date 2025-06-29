@@ -1,0 +1,23 @@
+{
+  "name": "Makurai Spring",
+  "background": "#15161B",
+  "foreground": "#FFFFFF",
+  "black": "#2e3339",
+  "red": "#FF5555",
+  "green": "#D4FF59",
+  "yellow": "#FFB347",
+  "blue": "#66E6FF",
+  "purple": "#D2A6FF",
+  "cyan": "#66E6FF",
+  "white": "#FFFFFF",
+  "brightBlack": "#49525c",
+  "brightRed": "#ff5d5d",
+  "brightGreen": "#e9ff61",
+  "brightYellow": "#ffc44e",
+  "brightBlue": "#70fdff",
+  "brightPurple": "#e7b6ff",
+  "brightCyan": "#70fdff",
+  "brightWhite": "#ffffff",
+  "cursorColor": "#ffdb29",
+  "selectionBackground": "#264F78"
+}

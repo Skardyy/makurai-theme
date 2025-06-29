@@ -1,0 +1,22 @@
+# Makurai Autumn Theme
+background = #15161B
+foreground = #FFFFFF
+selection-foreground = #ffffff
+selection-background = #264F78
+cursor-color = #ffdb29
+palette = 0=#2e3339
+palette = 1=#fc4c4c
+palette = 2=#a1cd32
+palette = 3=#fac25a
+palette = 4=#5abffa
+palette = 5=#FF6B9D
+palette = 6=#5abffa
+palette = 7=#FFFFFF
+palette = 8=#49525c
+palette = 9=#ff5353
+palette = 10=#b1e137
+palette = 11=#ffd563
+palette = 12=#63d2ff
+palette = 13=#ff75ac
+palette = 14=#63d2ff
+palette = 15=#ffffff

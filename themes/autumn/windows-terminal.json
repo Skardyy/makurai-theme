@@ -1,0 +1,23 @@
+{
+  "name": "Makurai Autumn",
+  "background": "#15161B",
+  "foreground": "#FFFFFF",
+  "black": "#2e3339",
+  "red": "#fc4c4c",
+  "green": "#a1cd32",
+  "yellow": "#fac25a",
+  "blue": "#5abffa",
+  "purple": "#FF6B9D",
+  "cyan": "#5abffa",
+  "white": "#FFFFFF",
+  "brightBlack": "#49525c",
+  "brightRed": "#ff5353",
+  "brightGreen": "#b1e137",
+  "brightYellow": "#ffd563",
+  "brightBlue": "#63d2ff",
+  "brightPurple": "#ff75ac",
+  "brightCyan": "#63d2ff",
+  "brightWhite": "#ffffff",
+  "cursorColor": "#ffdb29",
+  "selectionBackground": "#264F78"
+}

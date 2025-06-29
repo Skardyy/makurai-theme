@@ -1,0 +1,23 @@
+{
+  "name": "Makurai Light",
+  "background": "#f8f8fc",
+  "foreground": "#323640",
+  "black": "#505053",
+  "red": "#CC0000",
+  "green": "#51A150",
+  "yellow": "#976700",
+  "blue": "#3D76F3",
+  "purple": "#AB31A9",
+  "cyan": "#3D76F3",
+  "white": "#323640",
+  "brightBlack": "#808085",
+  "brightRed": "#e00000",
+  "brightGreen": "#59b158",
+  "brightYellow": "#a67100",
+  "brightBlue": "#4381ff",
+  "brightPurple": "#bc35b9",
+  "brightCyan": "#4381ff",
+  "brightWhite": "#373b46",
+  "cursorColor": "#D4A017",
+  "selectionBackground": "#C6DBFF"
+}

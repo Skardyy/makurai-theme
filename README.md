@@ -1,9 +1,7 @@
 <div align="center">
   
-### Makurai Theme
-*Less Colors More Contrast*
-  
-<img src="https://github.com/user-attachments/assets/ae5d01ef-398d-4138-951d-c2837f5c3193" opacity=0.5 width=256 height=256/>
+# Makurai Theme
+***Minimal highlighting with maximum clarity***
 
 [![Static Badge](https://img.shields.io/badge/neovim-20202b?style=for-the-badge&logo=neovim)](https://github.com/Skardyy/makurai-nvim)
 [![Static Badge](https://img.shields.io/badge/vscode-20202b?style=for-the-badge&logo=vscodium&)](https://github.com/Skardyy/makurai-vscode)
@@ -15,8 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/Wt-20202b?style=for-the-badge&logo=educative&logoColor=aaaaaa)
 ![Static Badge](https://img.shields.io/badge/Warp-20202b?style=for-the-badge&logo=warp&logoColor=01A4FF)
 
-
-
 ---
 
 </div>
@@ -25,30 +21,30 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="./themes/mage">
-        <b>Mage</b><br>
-        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/mage/thumbnail.png"/>
+      <a href="./themes/dark">
+        <b>Dark</b><br>
+        <img width="512" src="./dogs/dark/thumbnail.png"/>
       </a>
     </td>
     <td align="center">
-      <a href="./themes/rogue">
-        <b>Rogue</b><br>
-        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/rogue/thumbnail.png"/>
+      <a href="./themes/light">
+        <b>Light</b><br>
+        <img width="512" src="./dogs/light/thumbnail.png"/>
       </a>
     </td>
   </tr>
 <tr/>
 <tr>
     <td align="center">
-      <a href="./themes/warrior">
-        <b>Warrior</b><br>
-        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/warrior/thumbnail.png"/>
+      <a href="./themes/autumn">
+        <b>Autumn</b><br>
+        <img width="512" src="./dogs/autumn/thumbnail.png"/>
       </a>
     </td>
     <td align="center">
-      <a href="./themes/healer">
-        <b>Healer</b><br>
-        <img width="512" src="https://github.com/Skardyy/makurai-theme/blob/main/dogs/healer/thumbnail.png"/>
+      <a href="./themes/spring">
+        <b>Spring</b><br>
+        <img width="512" src="./dogs/spring/thumbnail.png"/>
       </a>
     </td>
   </tr>

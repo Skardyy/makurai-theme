@@ -1,0 +1,23 @@
+{
+  "name": "Makurai Dark",
+  "background": "#15161B",
+  "foreground": "#FFFFFF",
+  "black": "#2e3339",
+  "red": "#FF5555",
+  "green": "#95FB79",
+  "yellow": "#FFEE99",
+  "blue": "#82AAFF",
+  "purple": "#D2A6FF",
+  "cyan": "#82AAFF",
+  "white": "#FFFFFF",
+  "brightBlack": "#49525c",
+  "brightRed": "#ff5d5d",
+  "brightGreen": "#a3ff85",
+  "brightYellow": "#ffffa8",
+  "brightBlue": "#8fbbff",
+  "brightPurple": "#e7b6ff",
+  "brightCyan": "#8fbbff",
+  "brightWhite": "#ffffff",
+  "cursorColor": "#ffdb29",
+  "selectionBackground": "#264F78"
+}

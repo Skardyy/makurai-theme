@@ -1,0 +1,22 @@
+# Makurai Light Theme
+background = #f8f8fc
+foreground = #323640
+selection-foreground = #323640
+selection-background = #C6DBFF
+cursor-color = #D4A017
+palette = 0=#505053
+palette = 1=#CC0000
+palette = 2=#51A150
+palette = 3=#976700
+palette = 4=#3D76F3
+palette = 5=#AB31A9
+palette = 6=#3D76F3
+palette = 7=#323640
+palette = 8=#808085
+palette = 9=#e00000
+palette = 10=#59b158
+palette = 11=#a67100
+palette = 12=#4381ff
+palette = 13=#bc35b9
+palette = 14=#4381ff
+palette = 15=#373b46

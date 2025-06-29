@@ -1,0 +1,42 @@
+# Makurai Autumn Theme
+# Default colors
+[colors.primary]
+background = '#15161B'
+foreground = '#FFFFFF'
+
+# Normal colors
+[colors.normal]
+black = '#2e3339'
+red = '#fc4c4c'
+green = '#a1cd32'
+yellow = '#fac25a'
+blue = '#5abffa'
+magenta = '#FF6B9D'
+cyan = '#5abffa'
+white = '#FFFFFF'
+
+# Bright colors
+[colors.bright]
+black = '#49525c'
+red = '#ff5353'
+green = '#b1e137'
+yellow = '#ffd563'
+blue = '#63d2ff'
+magenta = '#ff75ac'
+cyan = '#63d2ff'
+white = '#ffffff'
+
+# Dim colors
+[colors.dim]
+black = '#1b1e22'
+red = '#e24444'
+green = '#90b82d'
+yellow = '#e1ae51'
+blue = '#51abe1'
+magenta = '#e5608d'
+cyan = '#51abe1'
+white = '#e5e5e5'
+
+[colors.cursor]
+text = '#000000'
+cursor = '#ffdb29'
