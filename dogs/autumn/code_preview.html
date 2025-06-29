@@ -70,7 +70,7 @@
     }
 
     /* Syntax highlighting */
-    .comment    { color: var(--comment); font-style: italic; }
+    .comment    { color: var(--comment); }
     .keyword    { color: var(--keyword); }
     .function   { color: var(--function); }
     .string     { color: var(--string); }
@@ -81,19 +81,20 @@
 <body>
   <div class="terminal">
     <pre><code>
-<span class="comment"># definitely not a comment</span>
-<span class="keyword">class</span> <span class="type">Jeff</span>:
-    <span class="keyword">def</span> <span class="function">declare_supremacy</span>(<span class="type">self</span>, <span class="fg">number</span>):
-        <span class="function">print</span>(<span class="string">"I am the real Jeff"</span>)
+<span class="keyword">func</span> <span class="function">main</span>() {
+  <span class="keyword">var</span> cache <span class="type">string</span>
+  <span class="keyword">var</span> center <span class="type">bool</span>
+  <span class="keyword">var</span> fallback <span class="type">string</span>
+  <span class="keyword">var</span> protocol <span class="type">string</span>
+  <span class="keyword">var</span> scale <span class="type">string</span>
 
-    <span class="keyword">def</span> <span class="function">react</span>(<span class="type">self</span>):
-        <span class="function">print</span>(<span class="string">"no u"</span>)
-
-<span class="fg">jeff1</span> = <span class="type">Jeff</span>()
-<span class="fg">jeff2</span> = <span class="type">Jeff</span>()
-
-jeff1.<span class="function">declare_supremacy</span>(<span class="constant">7</span>)
-jeff2.<span class="function">react</span>()
+  <span class="comment">// getting flags</span>
+  flag.<span class="function">StringVar</span>(&protocol, <span class="string">"p"</span>, <span class="string">"auto"</span>, <span class="string">"Force protocol: kitty, iterm, sixel"</span>)
+  flag.<span class="function">BoolVar</span>(&center, <span class="string">"center"</span>, <span class="constant">true</span>, <span class="string">"rather or not to center align the image"</span>)
+  flag.<span class="function">StringVar</span>(&fallback, <span class="string">"f"</span>, <span class="string">"ascii"</span>, <span class="string">"fallback protocol"</span>)
+  flag.<span class="function">StringVar</span>(&scale, <span class="string">"scale"</span>, <span class="string">"1x1"</span>, <span class="string">"float for scaling the image"</span>)
+  flag.<span class="function">BoolVar</span>(&cache, <span class="string">"cache"</span>, <span class="constant">true</span>, <span class="string">"rather or not to cache the heavy operations"</span>)
+}
 </code></pre>
   </div>
 </body>
