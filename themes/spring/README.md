@@ -10,7 +10,7 @@
 |-----------|----------------|-|
 | Keyword   | `#FFB347` | ![keyword](../../dogs/spring/keyword.png) |
 | Function  | `#D4FF59` | ![function](../../dogs/spring/function.png) |
-| String    | `#8CEB3A` | ![string](../../dogs/spring/string.png) |
+| String    | `#37dbb5` | ![string](../../dogs/spring/string.png) |
 | Type      | `#66E6FF` | ![type](../../dogs/spring/type.png) |
 | Constant  | `#D8A5FF` | ![constant](../../dogs/spring/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/spring/comment.png) |
