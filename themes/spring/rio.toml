@@ -10,7 +10,7 @@ cursor = '#ffdb29'
 cursor-foreground = '#000000'
 
 # Selection colors
-selection-background = '#2e3940'
+selection-background = '#35424a'
 selection-foreground = '#ffffff'
 
 # Normal colors (0-7)
