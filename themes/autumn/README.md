@@ -43,6 +43,6 @@
 |--------------|-----------------|-|
 | Line Number  | `#25282E` | ![line_nr](../../dogs/autumn/line_nr.png) |
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/autumn/cursor_line.png) |
-| Selection    | `#264F78` | ![selection](../../dogs/autumn/selection.png) |
+| Selection    | `#602c3d` | ![selection](../../dogs/autumn/selection.png) |
 | On_Selection | `#ffffff` | ![on_selection](../../dogs/autumn/on_selection.png) |
 | Cursor       | `#ffdb29` | ![cursor](../../dogs/autumn/cursor.png) |

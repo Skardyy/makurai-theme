@@ -43,6 +43,6 @@
 |--------------|-----------------|-|
 | Line Number  | `#25282E` | ![line_nr](../../dogs/spring/line_nr.png) |
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/spring/cursor_line.png) |
-| Selection    | `#264F78` | ![selection](../../dogs/spring/selection.png) |
+| Selection    | `#2e3940` | ![selection](../../dogs/spring/selection.png) |
 | On_Selection | `#ffffff` | ![on_selection](../../dogs/spring/on_selection.png) |
 | Cursor       | `#ffdb29` | ![cursor](../../dogs/spring/cursor.png) |

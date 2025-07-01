@@ -7,7 +7,7 @@ config.colors = {
   background = "#15161B",
   cursor_bg = "#ffdb29",
   cursor_fg = "#15161B",
-  selection_bg = "#264F78",
+  selection_bg = "#602c3d",
   split = "#A6ACCD",
   ansi = {
     "#2e3339",
