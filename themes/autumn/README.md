@@ -11,11 +11,11 @@
 | Keyword   | `#fc6501` | ![keyword](../../dogs/autumn/keyword.png) |
 | Function  | `#fac25a` | ![function](../../dogs/autumn/function.png) |
 | String    | `#a1cd32` | ![string](../../dogs/autumn/string.png) |
-| Type      | `#fc4c4c` | ![type](../../dogs/autumn/type.png) |
+| Type      | `#FF6B9D` | ![type](../../dogs/autumn/type.png) |
 | Constant  | `#FF6B9D` | ![constant](../../dogs/autumn/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/autumn/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/autumn/foreground.png) |
-| Error     | `#fc4747` | ![error](../../dogs/autumn/error.png) |
+| Error     | `#fc4c4c` | ![error](../../dogs/autumn/error.png) |
 
 ## ANSI Colors
 | Name    | Color                              |                                                       |

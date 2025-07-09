@@ -5,10 +5,10 @@
             "keyword": "#fc6501",
             "function": "#fac25a",
             "string": "#a1cd32",
-            "type": "#fc4c4c",
+            "type": "#FF6B9D",
             "constant": "#FF6B9D",
             "foreground": "#FFFFFF",
-            "error": "#fc4747",
+            "error": "#fc4c4c",
             "comment": "#5C6773"
         },
         "ansi": {
