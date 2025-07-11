@@ -17,24 +17,8 @@
 
 </div>
 
-<p align="center">Click on the theme you want</p>
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="./themes/dark">
-        <b>Dark</b><br>
-        <img width="512" src="./dogs/dark/thumbnail.png"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./themes/light">
-        <b>Light</b><br>
-        <img width="512" src="./dogs/light/thumbnail.png"/>
-      </a>
-    </td>
-  </tr>
-<tr/>
-<tr>
     <td align="center">
       <a href="./themes/autumn">
         <b>Autumn</b><br>
@@ -42,10 +26,22 @@
       </a>
     </td>
     <td align="center">
-      <a href="./themes/spring">
-        <b>Spring</b><br>
-        <img width="512" src="./dogs/spring/thumbnail.png"/>
+      <a href="./themes/dark">
+        <b>Dark</b><br>
+        <img width="512" src="./dogs/dark/thumbnail.png"/>
       </a>
     </td>
   </tr>
 </table>
+
+<div align=center>
+<details>
+<summary><b>Light Theme</b></summary>
+<br>
+<div align="center">
+  <a href="./themes/light">
+    <img width="512" src="./dogs/light/thumbnail.png"/>
+  </a>
+</div>
+</details>
+</div>
