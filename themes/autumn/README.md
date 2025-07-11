@@ -11,7 +11,7 @@
 | Keyword   | `#fc6501` | ![keyword](../../dogs/autumn/keyword.png) |
 | Function  | `#fac25a` | ![function](../../dogs/autumn/function.png) |
 | String    | `#a1cd32` | ![string](../../dogs/autumn/string.png) |
-| Type      | `#FF6B9D` | ![type](../../dogs/autumn/type.png) |
+| Type      | `#4FC8C8` | ![type](../../dogs/autumn/type.png) |
 | Constant  | `#FF6B9D` | ![constant](../../dogs/autumn/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/autumn/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/autumn/foreground.png) |
@@ -24,9 +24,9 @@
 | Red     | `#fc4c4c`     | ![red](../../dogs/autumn/red.png)         |
 | Green   | `#a1cd32`   | ![green](../../dogs/autumn/green.png)     |
 | Yellow  | `#fac25a`  | ![yellow](../../dogs/autumn/yellow.png)   |
-| Blue    | `#5abffa`    | ![blue](../../dogs/autumn/blue.png)       |
+| Blue    | `#4FC8C8`    | ![blue](../../dogs/autumn/blue.png)       |
 | Magenta | `#FF6B9D` | ![magenta](../../dogs/autumn/magenta.png) |
-| Cyan    | `#5abffa`    | ![cyan](../../dogs/autumn/cyan.png)       |
+| Cyan    | `#4FC8C8`    | ![cyan](../../dogs/autumn/cyan.png)       |
 | White   | `#FFFFFF`   | ![white](../../dogs/autumn/white.png)     |
 
 ## UI Colors

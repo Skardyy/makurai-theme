@@ -5,7 +5,7 @@
             "keyword": "#fc6501",
             "function": "#fac25a",
             "string": "#a1cd32",
-            "type": "#FF6B9D",
+            "type": "#4FC8C8",
             "constant": "#FF6B9D",
             "foreground": "#FFFFFF",
             "error": "#fc4c4c",
@@ -16,9 +16,9 @@
             "red": "#fc4c4c",
             "green": "#a1cd32",
             "yellow": "#fac25a",
-            "blue": "#5abffa",
+            "blue": "#4FC8C8",
             "magenta": "#FF6B9D",
-            "cyan": "#5abffa",
+            "cyan": "#4FC8C8",
             "white": "#FFFFFF"
         },
         "editor": {

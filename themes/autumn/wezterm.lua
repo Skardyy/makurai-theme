@@ -14,9 +14,9 @@ config.colors = {
     "#fc4c4c",
     "#a1cd32",
     "#fac25a",
-    "#5abffa",
+    "#4FC8C8",
     "#FF6B9D",
-    "#5abffa",
+    "#4FC8C8",
     "#FFFFFF",
   },
   brights = {
@@ -24,9 +24,9 @@ config.colors = {
     "#ff5353",
     "#b1e137",
     "#ffd563",
-    "#63d2ff",
+    "#56dcdc",
     "#ff75ac",
-    "#63d2ff",
+    "#56dcdc",
     "#ffffff",
   },
   tab_bar = {
