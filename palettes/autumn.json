@@ -2,11 +2,11 @@
     "name": "Autumn",
     "colors": {
         "syntax": {
-            "keyword": "#fc6501",
-            "function": "#fac25a",
-            "string": "#a1cd32",
-            "type": "#4FC8C8",
-            "constant": "#FF6B9D",
+            "keyword": "#ff6340",
+            "function": "#facc75",
+            "string": "#a2d93d",
+            "type": "#60bfbf",
+            "constant": "#e67399",
             "foreground": "#FFFFFF",
             "error": "#fc4c4c",
             "comment": "#5C6773"
@@ -14,11 +14,11 @@
         "ansi": {
             "black": "#5C6773",
             "red": "#fc4c4c",
-            "green": "#a1cd32",
-            "yellow": "#fac25a",
-            "blue": "#4FC8C8",
-            "magenta": "#FF6B9D",
-            "cyan": "#4FC8C8",
+            "green": "#a2d93d",
+            "yellow": "#facc75",
+            "blue": "#60bfbf",
+            "magenta": "#e67399",
+            "cyan": "#60bfbf",
             "white": "#FFFFFF"
         },
         "editor": {

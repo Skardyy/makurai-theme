@@ -8,33 +8,33 @@ foreground = '#FFFFFF'
 [colors.normal]
 black = '#2e3339'
 red = '#fc4c4c'
-green = '#a1cd32'
-yellow = '#fac25a'
-blue = '#4FC8C8'
-magenta = '#FF6B9D'
-cyan = '#4FC8C8'
+green = '#a2d93d'
+yellow = '#facc75'
+blue = '#60bfbf'
+magenta = '#e67399'
+cyan = '#60bfbf'
 white = '#FFFFFF'
 
 # Bright colors
 [colors.bright]
 black = '#49525c'
 red = '#ff5353'
-green = '#b1e137'
-yellow = '#ffd563'
-blue = '#56dcdc'
-magenta = '#ff75ac'
-cyan = '#56dcdc'
+green = '#b2ee43'
+yellow = '#ffe080'
+blue = '#69d2d2'
+magenta = '#fd7ea8'
+cyan = '#69d2d2'
 white = '#ffffff'
 
 # Dim colors
 [colors.dim]
 black = '#1b1e22'
 red = '#e24444'
-green = '#90b82d'
-yellow = '#e1ae51'
-blue = '#47b4b4'
-magenta = '#e5608d'
-cyan = '#47b4b4'
+green = '#91c336'
+yellow = '#e1b769'
+blue = '#56abab'
+magenta = '#cf6789'
+cyan = '#56abab'
 white = '#e5e5e5'
 
 [colors.cursor]

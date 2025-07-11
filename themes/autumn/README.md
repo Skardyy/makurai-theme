@@ -8,11 +8,11 @@
 ## Syntax Colors
 | Name      | Color          | |
 |-----------|----------------|-|
-| Keyword   | `#fc6501` | ![keyword](../../dogs/autumn/keyword.png) |
-| Function  | `#fac25a` | ![function](../../dogs/autumn/function.png) |
-| String    | `#a1cd32` | ![string](../../dogs/autumn/string.png) |
-| Type      | `#4FC8C8` | ![type](../../dogs/autumn/type.png) |
-| Constant  | `#FF6B9D` | ![constant](../../dogs/autumn/constant.png) |
+| Keyword   | `#ff6340` | ![keyword](../../dogs/autumn/keyword.png) |
+| Function  | `#facc75` | ![function](../../dogs/autumn/function.png) |
+| String    | `#a2d93d` | ![string](../../dogs/autumn/string.png) |
+| Type      | `#60bfbf` | ![type](../../dogs/autumn/type.png) |
+| Constant  | `#e67399` | ![constant](../../dogs/autumn/constant.png) |
 | Comment   | `#5C6773` | ![comment](../../dogs/autumn/comment.png) |
 | Foreground| `#FFFFFF` | ![foreground](../../dogs/autumn/foreground.png) |
 | Error     | `#fc4c4c` | ![error](../../dogs/autumn/error.png) |
@@ -22,11 +22,11 @@
 | ------- | ---------------------------------- | ----------------------------------------------------- |
 | Black   | `#2e3339`   | ![black](../../dogs/autumn/black.png)     |
 | Red     | `#fc4c4c`     | ![red](../../dogs/autumn/red.png)         |
-| Green   | `#a1cd32`   | ![green](../../dogs/autumn/green.png)     |
-| Yellow  | `#fac25a`  | ![yellow](../../dogs/autumn/yellow.png)   |
-| Blue    | `#4FC8C8`    | ![blue](../../dogs/autumn/blue.png)       |
-| Magenta | `#FF6B9D` | ![magenta](../../dogs/autumn/magenta.png) |
-| Cyan    | `#4FC8C8`    | ![cyan](../../dogs/autumn/cyan.png)       |
+| Green   | `#a2d93d`   | ![green](../../dogs/autumn/green.png)     |
+| Yellow  | `#facc75`  | ![yellow](../../dogs/autumn/yellow.png)   |
+| Blue    | `#60bfbf`    | ![blue](../../dogs/autumn/blue.png)       |
+| Magenta | `#e67399` | ![magenta](../../dogs/autumn/magenta.png) |
+| Cyan    | `#60bfbf`    | ![cyan](../../dogs/autumn/cyan.png)       |
 | White   | `#FFFFFF`   | ![white](../../dogs/autumn/white.png)     |
 
 ## UI Colors

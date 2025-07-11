@@ -1,6 +1,6 @@
 # Makurai Autumn Theme 
 name: makurai-Autumn
-accent: #4FC8C8
+accent: #60bfbf
 cursor: #ffdb29
 background: #15161B
 foreground: #FFFFFF
@@ -9,18 +9,18 @@ terminal_colors:
   bright:
     black: #49525c
     red: #ff5353
-    green: #b1e137
-    yellow: #ffd563
-    blue: #56dcdc
-    magenta: #ff75ac
-    cyan: #56dcdc
+    green: #b2ee43
+    yellow: #ffe080
+    blue: #69d2d2
+    magenta: #fd7ea8
+    cyan: #69d2d2
     white: #ffffff
   normal:
     black: #2e3339
     red: #fc4c4c
-    green: #a1cd32
-    yellow: #fac25a
-    blue: #4FC8C8
-    magenta: #FF6B9D
-    cyan: #4FC8C8
+    green: #a2d93d
+    yellow: #facc75
+    blue: #60bfbf
+    magenta: #e67399
+    cyan: #60bfbf
     white: #FFFFFF
