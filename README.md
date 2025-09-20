@@ -19,16 +19,16 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="./themes/autumn">
         <b>Autumn</b><br>
-        <img width="512" src="./dogs/autumn/thumbnail.png"/>
+        <img src="./dogs/autumn/thumbnail.png"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="./themes/dark">
         <b>Dark</b><br>
-        <img width="512" src="./dogs/dark/thumbnail.png"/>
+        <img src="./dogs/dark/thumbnail.png"/>
       </a>
     </td>
   </tr>
