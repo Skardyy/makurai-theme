@@ -1,10 +1,10 @@
 export FZF_DEFAULT_OPTS="
---color=fg:#2d3039,hl:#51A150
---color=fg+:#323640,bg+:#f0f0fa,hl+:#51A150
---color=info:#3D76F3,prompt:#3D76F3,pointer:#D4A017
---color=marker:#AB31A9,spinner:#976700,header:#505053
---color=border:#f0f0fa,label:#3D76F3,query:#323640
---color=disabled:#505053,preview-fg:#323640
+--color=fg:#4f617e,hl:#2E8B57
+--color=fg+:#2D3748,bg+:#f0f0fa,hl+:#2E8B57
+--color=info:#1E90FF,prompt:#1E90FF,pointer:#D4A017
+--color=marker:#8A2BE2,spinner:#D2691E,header:#7c7c7d
+--color=border:#f0f0fa,label:#1E90FF,query:#586c8d
+--color=disabled:#7c7c7d,preview-fg:#586c8d
 --border=rounded
 --height=60%
 --layout=reverse

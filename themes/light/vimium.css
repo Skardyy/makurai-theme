@@ -1,14 +1,14 @@
 /* Makurai Light Theme */
 
 :root {
-  --vimium-orange: #E35043;
-  --vimium-yellow: #3D76F3;
-  --vimium-green: #51A150;
-  --vimium-text: #323640;
-  --vimium-surface2: #f0f0f9;
+  --vimium-orange: #DC143C;
+  --vimium-yellow: #D2691E;
+  --vimium-green: #2E8B57;
+  --vimium-text: #2D3748;
+  --vimium-surface2: ;
   --vimium-background: #f8f8fc;
   --vimium-comment: ;
-  --vimium-line: #3D76F3;
+  --vimium-line: #718096;
 }
 
 #vomnibar,

@@ -33,15 +33,15 @@
 | Name          | Color           | |
 |---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/autumn/bg.png) |
-| Surface       | `#08090D` | ![surface](../../dogs/autumn/surface.png) |
-| Background 2  | `#14161f` | ![bg_alt](../../dogs/autumn/bg_alt.png) |
-| Surface 2     | `#1C1F2E` | ![surface_alt](../../dogs/autumn/surface_alt.png) |
-| Border        | `#A6ACCD` | ![border](../../dogs/autumn/border.png) |
+| Surface       | `#22202a` | ![surface](../../dogs/autumn/surface.png) |
+| Background 2  | `` | ![bg_alt](../../dogs/autumn/bg_alt.png) |
+| Surface 2     | `` | ![surface_alt](../../dogs/autumn/surface_alt.png) |
+| Border        | `#4a5868` | ![border](../../dogs/autumn/border.png) |
 
 ## Other
 | Name         | Color           | |
 |--------------|-----------------|-|
-| Line Number  | `#25282E` | ![line_nr](../../dogs/autumn/line_nr.png) |
+| Line Number  | `#34383d` | ![line_nr](../../dogs/autumn/line_nr.png) |
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/autumn/cursor_line.png) |
 | Selection    | `#602c3d` | ![selection](../../dogs/autumn/selection.png) |
 | On_Selection | `#ffffff` | ![on_selection](../../dogs/autumn/on_selection.png) |

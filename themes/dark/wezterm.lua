@@ -8,7 +8,7 @@ config.colors = {
   cursor_bg = "#ffdb29",
   cursor_fg = "#15161B",
   selection_bg = "#264F78",
-  split = "#A6ACCD",
+  split = "#4a5868",
   ansi = {
     "#2e3339",
     "#FF5555",
@@ -40,7 +40,7 @@ config.colors = {
       fg_color = "#2e3339",
     },
     inactive_tab_hover = {
-      bg_color = "#25282E",
+      bg_color = "#34383d",
       fg_color = "#FFFFFF",
     },
     new_tab = {
@@ -48,7 +48,7 @@ config.colors = {
       fg_color = "#2e3339",
     },
     new_tab_hover = {
-      bg_color = "#25282E",
+      bg_color = "#34383d",
       fg_color = "#FFFFFF",
     },
   },

@@ -33,15 +33,15 @@
 | Name          | Color           | |
 |---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/dark/bg.png) |
-| Surface       | `#08090D` | ![surface](../../dogs/dark/surface.png) |
-| Background 2  | `#14161f` | ![bg_alt](../../dogs/dark/bg_alt.png) |
-| Surface 2     | `#1C1F2E` | ![surface_alt](../../dogs/dark/surface_alt.png) |
-| Border        | `#A6ACCD` | ![border](../../dogs/dark/border.png) |
+| Surface       | `#22202a` | ![surface](../../dogs/dark/surface.png) |
+| Background 2  | `` | ![bg_alt](../../dogs/dark/bg_alt.png) |
+| Surface 2     | `` | ![surface_alt](../../dogs/dark/surface_alt.png) |
+| Border        | `#4a5868` | ![border](../../dogs/dark/border.png) |
 
 ## Other
 | Name         | Color           | |
 |--------------|-----------------|-|
-| Line Number  | `#25282E` | ![line_nr](../../dogs/dark/line_nr.png) |
+| Line Number  | `#34383d` | ![line_nr](../../dogs/dark/line_nr.png) |
 | Cursor Line  | `#1E1F24` | ![cursor_line](../../dogs/dark/cursor_line.png) |
 | Selection    | `#264F78` | ![selection](../../dogs/dark/selection.png) |
 | On_Selection | `#ffffff` | ![on_selection](../../dogs/dark/on_selection.png) |

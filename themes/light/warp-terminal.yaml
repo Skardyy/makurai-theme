@@ -1,26 +1,26 @@
 # Makurai Light Theme 
 name: makurai-Light
-accent: #3D76F3
+accent: #1E90FF
 cursor: #D4A017
 background: #f8f8fc
-foreground: #323640
+foreground: #586c8d
 details: darker
 terminal_colors:
   bright:
-    black: #808085
-    red: #e00000
-    green: #59b158
-    yellow: #a67100
-    blue: #4381ff
-    magenta: #bc35b9
-    cyan: #4381ff
-    white: #373b46
+    black: #c6c7c8
+    red: #f21642
+    green: #32985f
+    yellow: #e77321
+    blue: #219eff
+    magenta: #972ff8
+    cyan: #219eff
+    white: #60769b
   normal:
-    black: #505053
-    red: #CC0000
-    green: #51A150
-    yellow: #976700
-    blue: #3D76F3
-    magenta: #AB31A9
-    cyan: #3D76F3
-    white: #323640
+    black: #7c7c7d
+    red: #DC143C
+    green: #2E8B57
+    yellow: #D2691E
+    blue: #1E90FF
+    magenta: #8A2BE2
+    cyan: #1E90FF
+    white: #586c8d

@@ -23,14 +23,12 @@
         },
         "editor": {
             "bg": "#15161B",
-            "surface": "#08090D",
-            "bg_alt": "#14161f",
-            "surface_alt": "#1C1F2E",
-            "border": "#A6ACCD"
+            "surface": "#22202a",
+            "border": "#4a5868"
         },
         "other": {
             "guide": "#2D3640",
-            "line_nr": "#25282E",
+            "line_nr": "#34383d",
             "cursor_line": "#1E1F24",
             "selection": "#602c3d",
             "on_selection": "#ffffff",

@@ -3,7 +3,7 @@
 [colors]
 # Background and foreground
 background = '#f8f8fc'
-foreground = '#323640'
+foreground = '#586c8d'
 
 # Cursor colors
 cursor = '#D4A017'
@@ -11,34 +11,34 @@ cursor-foreground = '#000000'
 
 # Selection colors
 selection-background = '#C6DBFF'
-selection-foreground = '#323640'
+selection-foreground = '#2D3748'
 
 # Normal colors (0-7)
-black = '#505053'
-red = '#CC0000'
-green = '#51A150'
-yellow = '#976700'
-blue = '#3D76F3'
-magenta = '#AB31A9'
-cyan = '#3D76F3'
-white = '#323640'
+black = '#7c7c7d'
+red = '#DC143C'
+green = '#2E8B57'
+yellow = '#D2691E'
+blue = '#1E90FF'
+magenta = '#8A2BE2'
+cyan = '#1E90FF'
+white = '#586c8d'
 
 # Bright colors (8-15)
-bright-black = '#808085'
-bright-red = '#e00000'
-bright-green = '#59b158'
-bright-yellow = '#a67100'
-bright-blue = '#4381ff'
-bright-magenta = '#bc35b9'
-bright-cyan = '#4381ff'
-bright-white = '#373b46'
+bright-black = '#c6c7c8'
+bright-red = '#f21642'
+bright-green = '#32985f'
+bright-yellow = '#e77321'
+bright-blue = '#219eff'
+bright-magenta = '#972ff8'
+bright-cyan = '#219eff'
+bright-white = '#60769b'
 
 # Dim colors
-dim-black = '#303032'
-dim-red = '#b70000'
-dim-green = '#489048'
-dim-yellow = '#875c00'
-dim-blue = '#366ada'
-dim-magenta = '#992c98'
-dim-cyan = '#366ada'
-dim-white = '#2d3039'
+dim-black = '#4a4a4b'
+dim-red = '#c61236'
+dim-green = '#297d4e'
+dim-yellow = '#bd5e1b'
+dim-blue = '#1b81e5'
+dim-magenta = '#7c26cb'
+dim-cyan = '#1b81e5'
+dim-white = '#4f617e'
