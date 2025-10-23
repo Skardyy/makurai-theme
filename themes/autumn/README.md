@@ -34,8 +34,6 @@
 |---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/autumn/bg.png) |
 | Surface       | `#22202a` | ![surface](../../dogs/autumn/surface.png) |
-| Background 2  | `` | ![bg_alt](../../dogs/autumn/bg_alt.png) |
-| Surface 2     | `` | ![surface_alt](../../dogs/autumn/surface_alt.png) |
 | Border        | `#4a5868` | ![border](../../dogs/autumn/border.png) |
 
 ## Other

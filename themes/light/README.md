@@ -34,8 +34,6 @@
 |---------------|-----------------|-|
 | Background    | `#f8f8fc` | ![bg](../../dogs/light/bg.png) |
 | Surface       | `#ececf2` | ![surface](../../dogs/light/surface.png) |
-| Background 2  | `` | ![bg_alt](../../dogs/light/bg_alt.png) |
-| Surface 2     | `` | ![surface_alt](../../dogs/light/surface_alt.png) |
 | Border        | `#A0AEC0` | ![border](../../dogs/light/border.png) |
 
 ## Other
