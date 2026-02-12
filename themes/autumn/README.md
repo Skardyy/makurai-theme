@@ -33,7 +33,7 @@
 | Name          | Color           | |
 |---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/autumn/bg.png) |
-| Surface       | `#22202a` | ![surface](../../dogs/autumn/surface.png) |
+| Surface       | `#262831` | ![surface](../../dogs/autumn/surface.png) |
 | Border        | `#4a5868` | ![border](../../dogs/autumn/border.png) |
 
 ## Other

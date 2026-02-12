@@ -33,7 +33,7 @@
 | Name          | Color           | |
 |---------------|-----------------|-|
 | Background    | `#15161B` | ![bg](../../dogs/dark/bg.png) |
-| Surface       | `#22202a` | ![surface](../../dogs/dark/surface.png) |
+| Surface       | `#262831` | ![surface](../../dogs/dark/surface.png) |
 | Border        | `#4a5868` | ![border](../../dogs/dark/border.png) |
 
 ## Other
